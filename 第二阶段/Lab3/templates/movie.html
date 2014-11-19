@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>{{ theFime.name }}</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<link href="{{ static_url("movie.css") }}" type="text/css" rel="stylesheet">
+	</head>
+
+	<body>
+		<div id="banner">
+			<img src="http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/2/banner.png" alt="Rancid Tomatoes">
+		</div>
+
+		<ul id="selecter">
+			<li><a href="?film=tmnt">tmnt</a></li>
+			<li><a href="?film=tmnt2">tmnt2</a></li>
+			<li><a href="?film=princessbride">princessbride</a></li>
+			<li><a href="?film=mortalkombat">mortalkombat</a></li>
+		</ul>
+
+		<h1>{{ theFime.name }} ({{ theFime.proYear }})</h1>
+		<div id="content">
+		  <div id="sidebar">
+			<div>
+				<img src="{{ theFime.overvPngPath }}" alt="general overview">
+			</div>
+
+			<dl>
+			{% for k in infdict %}
+				<dt>{{ k[0] }}</dt>
+				<dd>{% raw k[1] %}</dd>
+			{% end %}
+			</dl>
+		  </div>
+
+		  <div id="criticArea">
+			<div id="topBar">
+				{% if theFime.score < '60' %}
+				<img src="http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/2/rottenbig.png" alt="Rotten">
+				{% else %}
+				<img src="http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/2/freshbig.png" alt="Fresh">
+				{% end %}
+				<span id="topBarText"><span id="topBarTextRed">{{ theFime.score }}%</span> ({{ theFime.comNum }} reviews total)</span>
+			</div>
+
+		  <div id="leftColumn">
+		  {% for i in range(0, len(revs)/2) %}
+			<p class="quote">
+			{% if revs[i][1].strip() == 'FRESH' %}
+				<img src="http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/2/fresh.gif" alt="Fresh">
+			{% else %}
+				<img src="http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/2/rotten.gif" alt="Rotten">
+			{% end %}
+				<q>{{ revs[i][0] }}</q>
+			</p>
+			<div class="critic">
+				<p class="criticer">
+					<img src="http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/2/critic.gif" alt="Critic">
+					{{ revs[i][2] }}<br>
+					<span class="company">{{ revs[i][3] }}</span>
+				</p>
+			</div>
+		  {% end %}
+		  </div>
+
+		  <div id="rightColumn">
+		  {% for i in range( len(revs)/2, len(revs) ) %}
+			<p class="quote">
+			{% if revs[i][1].strip() == 'FRESH' %}
+				<img src="http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/2/fresh.gif" alt="Fresh">
+			{% else %}
+				<img src="http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/2/rotten.gif" alt="Rotten">
+			{% end %}
+				<q>{{ revs[i][0] }}</q>
+			</p>
+			<div class="critic">
+				<p class="criticer">
+					<img src="http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/2/critic.gif" alt="Critic">
+					{{ revs[i][2] }}<br>
+					<span class="company">{{ revs[i][3] }}</span>
+				</p>
+			</div>
+		  {% end %}
+		  </div>
+		</div>
+		<p id="footer">(1-{{ int(theFime.comNum)/9 }}) of {{ theFime.comNum }}</p>
+		<div id="validators">
+			<a href="http://validator.w3.org/check/referer"><img src="http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/2/w3c-xhtml.png" alt="Valid XHTML 1.1"></a> <br>
+			<a href="http://jigsaw.w3.org/css-validator/check/referer"><img src="http://www.cs.washington.edu/education/courses/cse190m/09sp/homework/2/w3c-css.png" alt="Valid CSS!"></a>
+		</div>
+	  </div>
+	</body>
+</html>
