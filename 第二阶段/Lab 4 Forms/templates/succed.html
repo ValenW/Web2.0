@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Thanks, sucker!</title>
+<link href="http://www.cs.washington.edu/education/courses/cse190m/09sp/labs/4-buyagrade/buyagrade.css" rel="stylesheet">
+</head>
+<body>
+    <h1>Thanks, sucker!</h1>
+    <p>Your ingormation has been recorded.</p><br>
+    Name<br>
+    &emsp;&emsp;{{ user.name }}<br>
+    Section<br>
+    &emsp;&emsp;{{ user.section }}<br>
+    Credit Card<br>
+    &emsp;&emsp;{{ user.cardId }}({{ user.cardType }})<br>
+    <p>Here are all the suckers who have submitted here:<br>
+    <pre>{{ infs }}</pre>
+    </p>
+</body>
+</html>

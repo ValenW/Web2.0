@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Sorry</title>
+<link href="http://www.cs.washington.edu/education/courses/cse190m/09sp/labs/4-buyagrade/buyagrade.css" rel="stylesheet">
+</head>
+<body>
+    <h1>Sorry</h1>
+    <p>You didn't 
+    {% if reType == 'notCompleted' %}
+        fill out the form completely. 
+    {% else %}
+        provide a valid card number. 
+    {% end %}
+    <a href="/">Try again</a>?</p>
+</body>
+</html>
