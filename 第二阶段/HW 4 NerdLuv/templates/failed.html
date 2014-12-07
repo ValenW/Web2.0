@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>NerdLuv</title>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+        <link href="../static/images/heart.gif" type="image/gif" rel="shortcut icon">
+        <link href="../static/css/nerdluv.css" type="text/css" rel="stylesheet">
+    </head>
+
+    <body>
+        <div id="main">
+            <div id="bannerarea">
+                <img src="../static/images/nerdluv.png" alt="banner logo"> <br>
+                where meek geeks meet
+            </div>
+            <p>
+            {% if reType == 'notCompleted' %}
+                Error: You forgot to submit a value for seeking.
+            {% elif reType == 'unValid' %}
+                Error: Invalid submission data.
+            {% else %}
+                Error: The name had been registered.
+            {% end %}
+                <a href="/">Try again</a>?
+            </p>
+        </div>
+    </body>
+</html>

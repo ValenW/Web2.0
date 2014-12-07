@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>NerdLuv</title>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<link href="../static/images/heart.gif" type="image/gif" rel="shortcut icon">
+		<link href="../static/css/nerdluv.css" type="text/css" rel="stylesheet">
+	</head>
+
+	<body>
+		<div id="main">
+			<div id="bannerarea">
+				<img src="../static/images/nerdluv.png" alt="banner logo"> <br>
+				where meek geeks meet
+			</div>
+	
+			<div id="matches">
+				<h1>Matches for {{ uName }}</h1>
+				{% for u in users %}
+					<div class="match">
+						<p class="name">
+						{% if u[9] %}
+							<img src="../static/images/{{ u[0].lower().replace(' ', '_') }}.jpg" alt="{{ u[0] }}">
+						{% else %}
+							<img src="../static/images/default_user.jpg" alt="{{ u[0] }}">
+						{% end %}
+							{{ u[0] }}
+						</p>
+
+						<p class="info">
+							<strong>gender:</strong>{{ u[1] }}<br>
+							<strong>age:</strong>{{ u[2] }}<br>
+							<strong>type:</strong>{{ u[3] }}<br>
+							<strong>OS:</strong>{{ u[4] }}<br>
+							<strong>rating:</strong>{{ u[8] }}
+						</p>
+					</div>
+				{% end %}
+			</div>
+		</div>
+		
+		<p>
+			Results and page (C) Copyright 2009 NerdLuv Inc.
+		</p>
+
+		<div id="w3c">
+			<a href="http://validator.w3.org/check/referer">
+				<img src="http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1"></a>
+			<a href="http://jigsaw.w3.org/css-validator/check/referer">
+				<img src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS"></a>
+		</div>
+	</body>
+</html>

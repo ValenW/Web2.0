@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+	<!-- CSE 190 M Homework 4 (NerdLuv) -->
+	<head>
+		<title>NerdLuv</title>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<link href="../static/images/heart.gif" type="image/gif" rel="shortcut icon">
+		<link href="../static/css/nerdluv.css" type="text/css" rel="stylesheet">
+	</head>
+
+	<body>
+		<div id="main">
+			<div id="bannerarea">
+				<img src="../static/images/nerdluv.png" alt="banner logo"> <br>
+				where meek geeks meet
+			</div>
+            <div id="form">
+			<form action="/" enctype="multipart/form-data" method="post" name="New-User-Signup">
+				<div id="formhead">New User Signup:</div>
+                <div class="form-items">
+					<strong class="formInputName">Name:</strong>
+                    <input type="text" name="name" size="16">
+                </div>
+
+                <div class="form-items">
+					<strong class="formInputName">Gender:</strong>
+					<label><input type="radio" checked="true" name="sex" value="M">Male</label>
+                    <label><input type="radio" name="sex" value="F">Female</label>
+                </div>
+
+                <div class="form-items">
+					<strong class="formInputName">Age:</strong>
+					<input type="text" name="age" size="5" maxlength="2">
+                </div>
+
+				<div class="form-items">
+					<strong class="formInputName">Personality type:</strong>
+					<input type="text" name="perType" size="5" maxlength="4">
+					(<a href="http://www.humanmetrics.com/cgi-win/JTypes2.asp">Don't know your type?</a>)
+				</div>
+
+				<div class="form-items">
+					<strong class="formInputName">Favorite OS:</strong>
+                    <select name="OS">
+                        <option value="Windows">Windows</option>
+                        <option value="Mac OS X">Mac OS X</option>
+                        <option value="Linux">Linux</option>
+                        <option value="other">other</option>
+                    </select>
+				</div>
+
+				<div id="seeking" class="form-items">
+					<strong class="formInputName">Seeking:</strong>
+					<label><input type="checkbox" name="forSex" value="M" checked="true">Male</label>
+                    <label><input type="checkbox" name="forSex" value="F">Female</label>
+				</div>
+
+				<div class="form-items">
+					<strong class="formInputName">Between ages:</strong>
+					<input type="text" name="forAge" maxlength="2"size="4"> and
+					<input type="text" name="forAge" maxlength="2" size="4">
+				</div>
+
+                <div class="form-items">
+                    <strong class="formInputName">Upload your head portrait</strong>(Only jpg accepted)<br>
+                    <input type='file' name='picture' accept="image/jpeg">
+                </div>
+
+				<div class="form-items">
+					<input type="submit" value="Sign Up">
+				</div>
+			</form>
+            </div>
+            <div id="login">
+                Old user?<br>
+                <form action="/login">
+                    <div class="form-items">
+                    <strong class="formInputName">User Name:</strong>
+                    <input type="text" name="username" size="16">
+                    <input type="submit" value="Sign In">
+                </div>
+                </form>
+            </div>
+		</div>
+
+		<p>
+			Results and page (C) Copyright 2009 NerdLuv Inc.
+		</p>
+
+		<div id="w3c">
+			<a href="http://validator.w3.org/check/referer">
+				<img src="http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1"></a>
+			<a href="http://jigsaw.w3.org/css-validator/check/referer">
+				<img src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS"></a>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>主页</title>
+
+    <!-- Bootstrap -->
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="../static/css/index.css" rel="stylesheet">
+  </head>
+  <body>
+    <nav class="navbar navbar-ghost" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">
+            <img width="50" src="../static/images/band.png" alt="logo">
+          </a>
+        </div>
+      </div>
+    </nav>
+    <div class="container">
+    {% for q in questions %}
+      <div class="jumbotron question col-sm-10 col-sm-offset-1">
+        <div class="title">{{ q[0] }}</div>
+        <div class="time">{{ q[1] }}</div>
+        <div class="author">{{ q[2] }}</div>
+        <div class="clearfix"></div>
+        <div class="text">{{ q[3] }}</div>
+        <button class="replyBtn btn btn-primary">回复TA</button>
+        <div class="clearfix"></div>
+        {% for r in replys %}
+        {% if r[0] == q[2] %}
+        <div class="jumbotron reply col-sm-10 col-sm-offset-2">
+          <div class="replyTxt">{{ r[3] }}</div>
+          <div class="replyTime">{{ r[1] }}</div>
+          <div class="replyAuthor">{{ r[2] }}</div>
+        </div>
+        {% end %}
+        {% end %}
+      </div>
+      {% end %}
+    </div>
+  </body>
+</html>
