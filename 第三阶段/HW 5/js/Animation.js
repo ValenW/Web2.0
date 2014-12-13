@@ -744,6 +744,2545 @@ var custom =
     "           C_O__ O___O__D\n" + 
     "          [______________]\n";
 
+var rabit = 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                              uU,                           \n\
+                                 .8ki       .B5GX                           \n\
+                                 BLrB.      Bv LS                           \n\
+                                 B  Br     :B  Xr                           \n\
+                                .B  YBGE0MjB7  B;                           \n\
+                               :Bq  Br     B  qBG8F.                        \n\
+                             rBBvB  B.     Y  B:  70:                       \n\
+                            MB:  B. :               BO                      \n\
+                           NB    .                   Bk                     \n\
+                          ,B.                         B,                    \n\
+                          Bi                          j8                    \n\
+                         .B                           iB                    \n\
+                         :B                           :B                    \n\
+                         rB               . ,.i7L.    XE                    \n\
+                          B    7EOM2MOU   U8kkjYv    iB:                    \n\
+                          7B      . . .             rB.                     \n\
+                           iG.                   .:88,                      \n\
+                            rBSu:,            Y. :u2B                       \n\
+                              ,SBBuS8B7     iM8  .  EB                      \n\
+                                 kq  MB   ,BM: ,BX   B7                     \n\
+                                  JB  8B iB7  OM:    vZ                     \n\
+                                   iB  BUB   B2      FF                     \n\
+                                    B. 82B  BJ       B.                     \n\
+                                   U1  B B  B       B0                      \n\
+                                 UL. .BB Ev :M    .5S                       \n\
+                                 BXJOM.:MFBU7PL25P1,                        \n\
+                               YNr .Bi .BZX  BUii,                          \n\
+                              iB,Nj:M  B: Bi rYLFrB                         \n\
+                               B  :  UG1  .5O1i.  B                         \n\
+                               GX:UBZ7       .Br .B                         \n\
+                                B. 7M         B  M5                         \n\
+                                LB  B.,..:,:.,B iB,                         \n\
+                              .7:MBMBv:viLiv:7BBBL;7rY,                     \n\
+                                . ii::ii;iiii:rv:.i.,..                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                           .                                \n\
+                               ,GBB       MMPB                              \n\
+                               B, B7    .Br  B                              \n\
+                              rB  B.    BO  BU                              \n\
+                              5S  B    ,B. ,B                               \n\
+                              B. ;B::iUBB :BF.                              \n\
+                              B  BN2UiLv  BXLEBBr.                          \n\
+                            :NB LB        .    iqBE                         \n\
+                           BBr  .                 YBJ                       \n\
+                         :BN                       .Bv                      \n\
+                        .Br                         .B.                     \n\
+                        BU                           FO                     \n\
+                       :B                            iM                     \n\
+                       OM                            rB                     \n\
+                       B.                .YF5UBMM;   Bk                     \n\
+                       B:     .,iLJYOBr  .Jr:..     rB                      \n\
+                       Mk     UZX7r7.,             .B,                      \n\
+                       :B.                       .NB:                       \n\
+                        jB:                     LMjB                        \n\
+                         :BGi                  ::  B                        \n\
+                           jBB8Jr              Bi jX                        \n\
+                              vBZ 5.          PM  B.                        \n\
+                               iB LB          B: .B                         \n\
+                                B. ZB        :B  iB                         \n\
+                                Y0  Br       :B  rB                         \n\
+                                :B  uP       .B  .B                         \n\
+                                BU  Mi        :Bi rX                        \n\
+                               B0  OBL1ME00qB0 ,BB  B                       \n\
+                              U0 iMLBX..    .FB  PBjB                       \n\
+                              uBJB GU         B:  UB                        \n\
+                              iB7  B          BM  ,B                        \n\
+                              ,B   B         7BB  B7                        \n\
+                               BU  MB        1EM :B                         \n\
+                               .B   B        vS  ,B                         \n\
+                                BU  B,       LB  5F                         \n\
+                                :Bi B7.:,:... B. B:.,                       \n\
+                            .r7Y.PBFBjirr7v:7rjBB2i7r7Y7:                   \n\
+                             .:,,,:L27:7:Lri;i:Lr::::,.,.                   \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                              ,ESv        ,:.                               \n\
+                             vBr7B     ,GBUB5                               \n\
+                            ,B. qY    jBi uN                                \n\
+                            Bi .B   ,GU  BN                                 \n\
+                           :B  BM25PBr 2MBBSX.                              \n\
+                           BU 5Bi:.    i  .:qBE7                            \n\
+                         :BBj S               i5G.                          \n\
+                        S0,                     ,Mr                         \n\
+                      .BM                         Bv                        \n\
+                      BZ                           B,                       \n\
+                     NB                       :,   kS                       \n\
+                     B.                  i7EGBBj   :B                       \n\
+                    vO             .:  LBZSi:       B                       \n\
+                    kU        .LUMEBO.             :B                       \n\
+                    7B    .kB0BFY,                .B:                       \n\
+                     B     i.                    rBY                        \n\
+                     2B                         7B.                         \n\
+                      5Bi                        UB.                        \n\
+                       7BB7:                      iB:                       \n\
+                         r5BBO:                 iY ,B7                      \n\
+                            iB.                 .BB  ku                     \n\
+                            SJ B                 iBB  jY                    \n\
+                           iB  BB                 BrB  O:                   \n\
+                          ,B  FjrB                B 1r u1                   \n\
+                         .Br iB  B                qBZj ,B                   \n\
+                         LM :B iBZ                 :B: uX                   \n\
+                         Z; BMBE   7XBBBBMGEBMBS1.  B  B:                   \n\
+                         B. jB7  qBB7,.        .7B; B:SB.                   \n\
+                         rB  B  BB               .B :k5B.                   \n\
+                          BMOG 5M                 B:  2B                    \n\
+                           SB  MB 7i         .BM1Bj  5B                     \n\
+                           7B   MBXBr        Bj.L. rMq                      \n\
+                            B0     ,B        B.  OBj:                       \n\
+                             1BFL   B7       B, .B                          \n\
+                               .GB  uL       YS :M                          \n\
+                                 B  :B       .B ,B                          \n\
+                                 B2 :B.,,:..,.B LB:                         \n\
+                             riJ:YBJBEir;77:r7FBBUirY;j:                    \n\
+                             ..,,.i21:i:ririi::7,:i., :.                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                            .:.                                             \n\
+                           iBYBi                                            \n\
+                      ,  ,iBSUU25NNGBP1;                                    \n\
+                     BBBMJ:.,:rk:    .7NBM.                                 \n\
+                    kBF:  :XMJ7:         YBk                                \n\
+                   M2    :Sr               BJ                               \n\
+                 :Br YB1                    B                               \n\
+                YB:LBS.                     B:                              \n\
+               iB .B                        B:                              \n\
+               B:                           B                               \n\
+              vM                           UB  .                            \n\
+              B.                          7BU12U11XF.                       \n\
+              G1                         LB: .     ;Y2                      \n\
+              .B                      .v8G.jBF2UFBr  rM                     \n\
+               8B                     JP:  GP    .8B  :M                    \n\
+                BB.                         :X     kM  Uv                   \n\
+                 YBki,,:.                    iB     B, ,B                   \n\
+                   iB0vYZr                    MU    B. iB                   \n\
+                   Bi  OZS1                   ,B   .B  BJ                   \n\
+                  Bv  BY  8Bi                  B:  B7 uB                    \n\
+                 ;B  OS    LB                  Zk.8Y .Bi                    \n\
+                 YM  B      Br                 .qGBi:B,                     \n\
+                 1k  B      j0                     BB                       \n\
+                 uB  ES    FBY    .::iuL5LFrLjL,    uO                      \n\
+                  BM  2L iMq   :SEkO12u77v7irir8Bi   B:                     \n\
+                   ZB. ;BB.  .rq:               7B   Br                     \n\
+                    :05UBX  :Z                  jM   B.                     \n\
+                        B,  B                77SB   BE                      \n\
+                        US  Bi  MZM         BPjL  uBL                       \n\
+                        .B.  7USi Bu        07  B17                         \n\
+                         ;B0L::r  .B        L0  B                           \n\
+                           :7YYLB  F0       iB  B:                          \n\
+                                1B  B        B; LU                          \n\
+                                 Bi B.,..:,, LB LP:                         \n\
+                              ;Y,uB8BL:viLiv:r2BBjiY;Yr:                    \n\
+                              ., ::,::ii;iiiL.i,:.:,,...                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                               UEG,                                         \n\
+                        .      LBrB;                                        \n\
+                       5857    :BGXBX77r,i.                                 \n\
+                       ,M.:5L2B8J      .:XMBi                               \n\
+                         ZkBU,   :YJLjJj.  :BMi                             \n\
+                        jL,  77  7L:::::.    .B0                            \n\
+                      :Br .BBFi                BE                           \n\
+                     rB. BB:                    B:                          \n\
+                     Bi :2                      2k                          \n\
+                    0P                          1U                          \n\
+                    B,                          Bi                          \n\
+                    B                          MP                           \n\
+                    B                         0B                            \n\
+                    SN                       YBOj:                          \n\
+                     Bv                         :BB                         \n\
+                     .BN                      P   Bj                        \n\
+                       uPjG                   BB  :M                        \n\
+                        :Bq                   YBZ :B                        \n\
+                        B:  UF                 BB :B                        \n\
+                       j0  B5BL                UB rN                        \n\
+                       k5  B  B                :S Ei                        \n\
+                       .B, LX Z;               75 B:                        \n\
+                        iB  BrB7    :v77r7:i.  YB :M                        \n\
+                         iB  BB   U5U7L7LvuJMB, B7:B                        \n\
+                          LS 7L :j:          ,B  JBr                        \n\
+                          Yk 7U.B             SB  B.                        \n\
+                          rPYE :B             :B  B:                        \n\
+                           .Br  B.ik:      ,BUBv  B                         \n\
+                            NB  JBBEB.     7B ,  B5                         \n\
+                            .B7     G1      B  :8Z                          \n\
+                             :8Xi.: rP      B  rB                           \n\
+                               ,7BY LX      Mi  B                           \n\
+                                 B  JU      :B  Zi                          \n\
+                                 Br UU.,.:..,B. 20:                         \n\
+                              .7:YB2B2iri7ii:1BXB5;777.                     \n\
+                               ...7v7:i:;:r7,iLi::.,.,                      \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                    ::.                                     \n\
+                           ,.       BFBu                                    \n\
+                          :B5B7     vU kB                                   \n\
+                          .B  B5    .GU ZB:                                 \n\
+                           :v  MBMkMFGBU NBN8u:                             \n\
+                            rB7 Y:     ,    :uOMu                           \n\
+                           LG1v.               .;BP                         \n\
+                          BO                      NB.                       \n\
+                         B7                        LB                       \n\
+                        B1                          BL                      \n\
+                       :B                    .,L    rB                      \n\
+                       GS              .uXMk0B8Fi    B                      \n\
+                       Br    .::iSUBE   rL:.         B                      \n\
+                       B,    JMFuv;.                7O                      \n\
+                       X5                          .B;                      \n\
+                       :B.                        ;B1                       \n\
+                        YB,                     7BS                         \n\
+                         rBB:                   .NM                         \n\
+                           vBBNYi.i:          q  YO                         \n\
+                            ,B,r7MJr          B  Bi                         \n\
+                             B:  B           Y0 :B:                         \n\
+                             .B. B:         .B: BB.                         \n\
+                              iB rB         78 1JB                          \n\
+                               B. Bi        E: B B                          \n\
+                               B  B.  :L::  B  B7B                          \n\
+                              YB  B jS55vUMGBU :BB                          \n\
+                              Bj,B2B7      .BBUY:B                          \n\
+                               BS  B         B   B                          \n\
+                               M,  Br       iB  YM                          \n\
+                               rB  uF       B0  kB                          \n\
+                                B: kB       B.  :B                          \n\
+                                Mr  B       Mr  iB                          \n\
+                                7Z  B       7Z  qv                          \n\
+                                :B. Bv.:,:..:B  B:                          \n\
+                              .r:MBJBJ.J:u:7;08MML:Lji,                     \n\
+                               :,.LU::ii;i;ii:Fv:.i : .                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                  MG:                                       \n\
+                                 rBiBu       .BBi                           \n\
+                                 ,B  B:      BJ B                           \n\
+                                  B  YN.... ,B  M7                          \n\
+                                 .Bi  BS5PMkMB  5U                          \n\
+                               FBGYB  Bi     B  :BP.                        \n\
+                             :BL   B. ::     B. YBNBB                       \n\
+                            NB.              .  2:  BB.                     \n\
+                           YB                        5B                     \n\
+                           B,                         B5                    \n\
+                          YO                          .B                    \n\
+                          GL                           8k                   \n\
+                          UP                           rM                   \n\
+                          rB     YU7rr:i               MF                   \n\
+                           BE    7ru1UP5   7ZZGZBOG    B,                   \n\
+                            BB                        M2                    \n\
+                             8BF:                   ,Uj                     \n\
+                             BS5i .N.        ...:7P0Bv                      \n\
+                            ZB  :. 7BB.    :BOuLBBu.                        \n\
+                           .B   rBU  2BE   MB  U1                           \n\
+                           7B     vBi  MM kB  BY                            \n\
+                           :B      .Bi  BYB  BU                             \n\
+                            B.      :B  rSB  B:                             \n\
+                            7B.      B. 8,5U .Fi                            \n\
+                             2Br    YZ :B BBu  :M                           \n\
+                               ;YjUNSiLOBBL uBXLY                           \n\
+                                u7:LB  :BF1  B. :BOr                        \n\
+                               BqYr:: 7B. B, LMGF:Yk                        \n\
+                               B  .N0FB.  .0Z .:i Bi                        \n\
+                               MX  B:       iSBL:7B                         \n\
+                               :B  B,        ik  B7                         \n\
+                           ,:::rEB BYrrL:Yr:7B. BBi.::.                     \n\
+                          .:7r7ii0BBLir;rr7iiEBBBr;iir:                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                     .:         .                           \n\
+                                    BB2Mv      BOku                         \n\
+                                    B:  BY     B  BU                        \n\
+                                    .B  .B     B  :B                        \n\
+                                     LM  Br    Gi  B:                       \n\
+                                    :LB5 7Bk1Y780  Nv                       \n\
+                                 7BBMUiB: ,::iirB  21                       \n\
+                               qBX:             UM SBq                      \n\
+                             :Bj.                   .Yqi                    \n\
+                            rBr                       .MM                   \n\
+                           ,B:                          BY                  \n\
+                           u0                           .B.                 \n\
+                           Lq                            XF                 \n\
+                           qS    ...                     .B                 \n\
+                           :B    kZMMNGvr                 B                 \n\
+                            ZB       .::.  :q0qE1Li:      B                 \n\
+                             BY               ..ir2S     :B                 \n\
+                              BM7                        B7                 \n\
+                              BYkN                     :Bu                  \n\
+                              YU  u                  :MBi                   \n\
+                              iB  Bi             r1SMEU                     \n\
+                               B  7B           8 YBJ                        \n\
+                               kj  Br         BF SU                         \n\
+                               jX  22        NB  B                          \n\
+                               US  JP       .B  7Z                          \n\
+                               B:  Br       rM  JE                          \n\
+                             .2v :BL        .B  .Bi                         \n\
+                             Mr MB. X2BMOMB87MBL .B;                        \n\
+                             LBPq  Eq       ;ML5M :B                        \n\
+                              N0   B          B ZMqB                        \n\
+                              LZ  7Bi         B. .87                        \n\
+                               B  SBB         B.  0j                        \n\
+                               E7 v2B        uB  .B.                        \n\
+                               FU  ,8        B.  Br                         \n\
+                               iB  qF        B  :B                          \n\
+                            :,::Bv BLi;L:77iiB :B1:,.:                      \n\
+                           .7:r:YBO0v.;rY:rirB1BF:rYir                      \n\
+                                          .   ,                             \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                      ir:       ;BkU                        \n\
+                                     :B5UB2     P8 BB                       \n\
+                                      ;Z  0M    :B  BG                      \n\
+                                       7Bi .O7   Ou  B.                     \n\
+                                    ,8MBBBN. BZBY2B, UG                     \n\
+                                  78B7:   .     ..XB .B                     \n\
+                                 uE,               7  MB5                   \n\
+                               :B:                      rBr                 \n\
+                              iB.                        7Bi                \n\
+                              Bi                          :B:               \n\
+                             7B   i;.                      ,B               \n\
+                             Bv   rUBBBUu:.                 B7              \n\
+                             B.       .iUMj  7;.            LE              \n\
+                             kk              L8BMkkr.       iB              \n\
+                              BY                .,UqMO8:    XU              \n\
+                               85:                    :     B:              \n\
+                                BN                         B8               \n\
+                              .BX                        :Bq                \n\
+                             .BL                      .NBBv                 \n\
+                            7Br Uu                 :SBGYi                   \n\
+                           LX  MB,                .,vB                      \n\
+                          12  BBq                 B  B                      \n\
+                         ;B  qiM.                MBi 7B                     \n\
+                         S2 :E B                OY.B  BU                    \n\
+                         XY :BMB                B: LN  B:                   \n\
+                         YB  Br     . :.. .     rPO NU rB                   \n\
+                          B, B  .0P2GUZPFNBBBBjr  :BBB  B                   \n\
+                          BB:B iBY           .LBB.  BM  B                   \n\
+                          BYYY Br               iB. X. BE                   \n\
+                          uM   BJ                iB rBBM                    \n\
+                           OB.  B8B0k         rN;iB  :B                     \n\
+                            LBB: :,.B        :BYBB.  0Z                     \n\
+                              :1Mi  B        B7     qB                      \n\
+                                55  B        B   rZGU                       \n\
+                                UU :B       .B  uq.                         \n\
+                                17 7q       Y2  B:                          \n\
+                             :.iEE BUiiL:rr;0X iBY i..                      \n\
+                            .r7iYMOBv.;rY:YiYB1B0r:Ji:                      \n\
+                                              ,                             \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                   .vi                      \n\
+                                               ::,.BBFB                     \n\
+                                          LqMBE2FEJ1:rBE7. :Y               \n\
+                                       :MBFr      PXri  7MBBBZ              \n\
+                                      LB5          ,Y2Bj   rBB              \n\
+                                     :B.               Lr .  rBi            \n\
+                                     Bi                   r8Bi.SU           \n\
+                                     B                      :BB.kB          \n\
+                                     B                        1; NB         \n\
+                                     B,                           B2        \n\
+                                 .:  YB                           iB        \n\
+                             .FqE5vULUBG                           B        \n\
+                            SYr   ...  M8                          B        \n\
+                           Br  rBX25JuBiUM5:                      qX        \n\
+                          B:  MB.    75.  Yk                     UB.        \n\
+                         :G  UB     87                         .OB          \n\
+                         kU  B     BJ                   .,i::iBB7           \n\
+                         UE  B    iB                    .BL7uBG             \n\
+                         ,B  Zk   BL                   ZOFM   B;            \n\
+                          B5  B:  B                  ,BM   Bi  B;           \n\
+                          ,B7 .B;uB                  Bj    ,B  7B           \n\
+                            qU7BOJ:                 .B      B:  B           \n\
+                             BB.                    rB      B.  B           \n\
+                            q1    :7urJPkPSUY7ii.    qBv   LB  NB           \n\
+                            B   ,BB7Y:i::,:irvFZGqj   iBB ;Z  SB.           \n\
+                           :B   Bu               .rSr   BBU  BB.            \n\
+                            B,  JB                  rk  .B12Gi              \n\
+                            LBi  jB5U:               B:  B,                 \n\
+                             :M0i :i0B         8OB, 7B  :B                  \n\
+                               ,2B: .B        7B  717  .BL                  \n\
+                                 B. vN        Bi  7:77BBU                   \n\
+                                 B  BY       iB  BL:7i.                     \n\
+                                iB  B        G: uZ                          \n\
+                             :.ijB BF:iL:7LirB.7B7:.                        \n\
+                             riiLBO87,rrY:7iiqBB5:r:7                       \n\
+                                          .                                 \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                FEB                         \n\
+                                              ,M7JO      :                  \n\
+                                       .7OM00kBBqB5i   iB1B:                \n\
+                                     rMBU;:..    .LM05B; Yr                 \n\
+                                   :BOi   LLjLUY1    :BYN.                  \n\
+                                  XB,     .:.,.:i  L5:  iO:                 \n\
+                                 YB                .:0BL  0q                \n\
+                                 B.                    5B: BO               \n\
+                                ;B                      ;v  Br              \n\
+                                iB                          :B              \n\
+                                 B,                          B:             \n\
+                                 iB                          B:             \n\
+                                  qBi                        B:             \n\
+                                .kSZq                       :B              \n\
+                               ;Br                         :B.              \n\
+                              :B   Mi                    .XBi               \n\
+                              Fu  BB                   8BkL                 \n\
+                              5J rB0                   iB2                  \n\
+                              UU YB7                5G1  BL                 \n\
+                              :M YS                ,BJBi iM                 \n\
+                               B :k                BU B. :B                 \n\
+                               B ,B                B YM  B:                 \n\
+                              2j k8  ,r75rvYL7:    BUB  BZ                  \n\
+                              M57B  B8Jvririrv0Gu  vB  Z8                   \n\
+                               Br  BU          .kB .F  B                    \n\
+                               B  1B             0LiB .B                    \n\
+                               B. BJ             Lj uNSj                    \n\
+                               Bi  MPBi      :OOiB:  B:                     \n\
+                               :B   .Nk      B1BBE  YB                      \n\
+                                :B0  XY     iB     ;B:                      \n\
+                                 15  B,     rE :r:NB:                       \n\
+                                 B  .B      :M ,Bk.                         \n\
+                                :B  PY      rO  Br                          \n\
+                             :.iJB  BY:7:r7,rB  Bj..:                       \n\
+                             r:iLMOB0:i;L:rr;BqBG:L::                       \n\
+                                              .                             \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                           .j7                              \n\
+                                          5MFB,      :v                     \n\
+                                         BO iZ     iBUB1                    \n\
+                                       .BB rB,    YB. B:                    \n\
+                                   iXPBBB rBqYPBBBB  SS                     \n\
+                                 JB87.           : vBB                      \n\
+                              .FMr.                vrkB.                    \n\
+                             .B8                      vB7                   \n\
+                             B1                        .Br                  \n\
+                            7B                          .B.                 \n\
+                            Bv    77:.                   XS                 \n\
+                            B:    iu1ZBEkk   ,.          .B                 \n\
+                            B,         .::   jB0FLr:i.    B                 \n\
+                            10                 .:7JqX:    B                 \n\
+                             BY                          :B                 \n\
+                             :BN:                        B7                 \n\
+                               :BB.                    ,BM                  \n\
+                               :B                    iMBL                   \n\
+                               7B  U,         ,L7rF0BB7                     \n\
+                                B  Bv         .LSqi Jq                      \n\
+                                BB iB           Ui  Bi                      \n\
+                                BBi B.          B. Bq                       \n\
+                                B;B rB         UN ;B                        \n\
+                                k:B  B         B  B:                        \n\
+                                LNB  B .jJjr:  B  B2                        \n\
+                                BBq.7BBUYrrJUqrEP  B                        \n\
+                                B7rrBB.      .M7ZZrB:                       \n\
+                                Pi  1i        B: iB,                        \n\
+                                JB  Bk       ,B   B                         \n\
+                                UB  ,B       ,B  B5                         \n\
+                                5U   B       7B  B,                         \n\
+                                7q  .B       B.  B                          \n\
+                                :B  L8       B  LB                          \n\
+                           ,::::iB. B5iv:7virB  Bu;.r:                      \n\
+                          .:7r7iiUBMB:irY:rirBNBB:ir7:7                     \n\
+                                   .      .   ,:                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                              uU,                           \n\
+                                 .Oki       .B58X                           \n\
+                                 BLrB.      Bv LS                           \n\
+                                 B  Br     :B  kr                           \n\
+                                .B  YBZE0MJB7  Bi                           \n\
+                               iBP  Br     B  qBGOF.                        \n\
+                             rBB7B  B.     Y  B:  7E:                       \n\
+                            MB:  B. :               BM                      \n\
+                           NB    .                   BX                     \n\
+                          ,B                          B:                    \n\
+                          B;                          jG                    \n\
+                         .B                           iB                    \n\
+                         iB                           :B                    \n\
+                         rB               . ,.i7L.    XE                    \n\
+                          B.   7Z8M1MMu   uOXXuYL    ;B:                    \n\
+                          vB      . . .             rB.                     \n\
+                           iG.                   .:GG,                      \n\
+                            ;BSu:,            L. :U2B                       \n\
+                              ,SBBuF8M7     :MO  .  0B                      \n\
+                                 XN  MB   ,BO: ,BX   B7                     \n\
+                                  JB  8B iBv  MM:    vG                     \n\
+                                   iB  BUB   B1      F5                     \n\
+                                    B. OUB  Bj       B.                     \n\
+                                   U1  B B  B       ME                      \n\
+                                 UL. .BB 0L :M    .5F                       \n\
+                                 BXjMO.:MFBU7PL25P1.                        \n\
+                               YNr .Bi .BGP  BUii,                          \n\
+                              iB,Nu:M  B, Bi ;YLSrB                         \n\
+                               B  :  UZ5  .FO2i.  B                         \n\
+                               8P:UBG7       .Br .B                         \n\
+                                B. 7M         B  M2                         \n\
+                                vB  B.,..:,:.:B iB:                         \n\
+                             riL:BBMBv:viLiL:7BBBL:777L:                    \n\
+                             ..,. ii::iiiiiii:77:.::....                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                 .                                          \n\
+                               ,GBB       MMPB                              \n\
+                              .B, Bv    .Br  B                              \n\
+                              rB  B.    BO  B2                              \n\
+                              5S  B    ,B. ,B                               \n\
+                              B. iB::iUMB :BF.                              \n\
+                              B  BN2uiLv  BXYEBBr.                          \n\
+                            :NB vB        .    :NBE                         \n\
+                           BB;  .                 JBY                       \n\
+                         :Bq                       .Bv                      \n\
+                        .Br                         .B.                     \n\
+                        B2                           FM                     \n\
+                       :B                            iM                     \n\
+                       MB                            7B                     \n\
+                       B.                .Y51UBBMi   Bk                     \n\
+                       B:     .,iLjY8Br  .Jr:..     rB                      \n\
+                       Mk     uEX7rr..             .B,                      \n\
+                       :B.                       .NB:                       \n\
+                        jB:                     YBjB                        \n\
+                         :BGi                  ::  B                        \n\
+                           jBB8jr              Bi jX                        \n\
+                              7BZ 5.          kB  B.                        \n\
+                               iB vB          B: .B                         \n\
+                                B. ZB        :B  iB                         \n\
+                                L0  Br       :B  7B                         \n\
+                                :B  jP       .B  .B                         \n\
+                                BU  Oi        :Bi rX                        \n\
+                               BE  OBL5MEN0PBE ,BB  B                       \n\
+                              2N iOLBk..   ..5B  qBjB                       \n\
+                              jBjB GU         B:  UB                        \n\
+                              iB7  B          BM  ,B                        \n\
+                              ,B   B         7BB  B7                        \n\
+                               BU  MB        1EM :B                         \n\
+                               .B   B        LS  ,B                         \n\
+                                B5  B,       LB  52                         \n\
+                                :B; B7.:,:,.. B. Bi                         \n\
+                              ,J.1BFBUi7rLv:77jBB2iYrYr:                    \n\
+                              ., :iL2:;irir;ri:v;:i,:...                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                              ,0Fv        ,:.                               \n\
+                             vBrrB     ,GBUB5                               \n\
+                            :B. PY    JBi UN                                \n\
+                            Bi .B   ,GU  Bq                                 \n\
+                           :B  BM25qBr 2BBBFP.                              \n\
+                           BU 5Bi:.    i  .:PBE7                            \n\
+                         :BBJ F               iFG                           \n\
+                        S0,                     ,Mr                         \n\
+                      .BM                         Bv                        \n\
+                      BZ                           B,                       \n\
+                     PB                       :,   SF                       \n\
+                     B.                  i7E8BMj   :B                       \n\
+                    vO             .:  LBZSi:       B                       \n\
+                    X2        .L2M0BO.             :B                       \n\
+                    7B    .XB0BFY,                .B:                       \n\
+                     B.    i.                    rBY                        \n\
+                     UB                         7B.                         \n\
+                      FBi                        UB.                        \n\
+                       7BBv:                      iB:                       \n\
+                         r5BBM:                 iY ,B7                      \n\
+                            iB.                 .BB  ku                     \n\
+                            kJ B                 iBB  jY                    \n\
+                           iB  BB                 BrB  M:                   \n\
+                          ,B  FjrB                B 27 u1                   \n\
+                         .B7 iB  B                qBEJ ,B                   \n\
+                         LM ,B iMZ                 ,B: uX                   \n\
+                         Zr BMBZ   7kBBBBMGEBMMF5.  B  B:                   \n\
+                         B. JB7  qBBr..        .7Bi B:SB.                   \n\
+                         rB  B  BB               .B :S5B.                   \n\
+                          BMMG 5M                 B:  2B                    \n\
+                           SB  MB ri         .BM1BJ  1B                     \n\
+                           7B   MBkB;        Bj.v. rMq                      \n\
+                            B0     ,B        B.  8Bj:                       \n\
+                             1BSL   B7       B, ,B                          \n\
+                               .ZB  uY       Yk :M                          \n\
+                                 B  :B       .B ,B                          \n\
+                                 BL :B..,:..,.B YB.                         \n\
+                              .r7jBYBEir;77:r7FBMJ7vrY,                     \n\
+                               ,,.iU1:iiri;i;i::..i.,..                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                            .:.                                             \n\
+                           iBYBi                                            \n\
+                      ,  ,iBS2U110N8BP2;                                    \n\
+                    .BBBMYi.,:rk:    .vqBM.                                 \n\
+                    SB5:  :XBJ7:         YBk                                \n\
+                   M1    :k7               BY                               \n\
+                 :B7 JB5                    B                               \n\
+                YB:LBS.                     B:                              \n\
+               iB .B                        B:                              \n\
+               B:                           B.                              \n\
+              vM                           UB  .                            \n\
+              B.                          vBU12U55PF.                       \n\
+              G2                         LB: .     rYU                      \n\
+              .B                      .LOG.JBF1UFBr  rM                     \n\
+               8B                     jP:  8P    .8B  :M                    \n\
+                MB.                         :P     kM  Uv                   \n\
+                 YBki,,,                     iB     B, ,B                   \n\
+                   iBELYEr                    MU    B. iB                   \n\
+                   Bi  OGS1                   ,B   .B  BJ                   \n\
+                  B7  BY  GBi                  B:  B7 UB                    \n\
+                 rB  Ok    LB                  Gk.MY ,Bi                    \n\
+                 YM  B      Br                 .qGBi:B,                     \n\
+                 5k  B      uN                     BB                       \n\
+                 uB  ES    FBY    .::iuvFLFrLJL,    uM                      \n\
+                  BM  1L iMq   :SEkO2Uu7777irirGBi   B:                     \n\
+                   ZB. ;BB.  .rq:               7B   Br                     \n\
+                    :E1UBX  :Z                  jM   B.                     \n\
+                        B,  B                77SB   BE                      \n\
+                        2F  Bi  MZM         Bquv  jBL                       \n\
+                        .B.  vUSi Bu        07  B27                         \n\
+                         ;B0Y::r  .B        L0  B                           \n\
+                           :7YYLB  FN       iB  B:                          \n\
+                                2B  B        B; L2                          \n\
+                                 Bi B.,.,:., LB Yq:                         \n\
+                              .7:YBBBv:viLiv,r1BBuiLJi,                     \n\
+                                ,..i::ii;iiiL.;,:.:.:..                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                               UEZ,                                         \n\
+                        .      LBrB;                                        \n\
+                       5857    :B8XBX77;,i.                                 \n\
+                       .M.:5L2B8J      .:PMBi                               \n\
+                         ZkBU.   ,YJLjJj.  :MMi                             \n\
+                        JL,  7v  7L:::::.    .BN                            \n\
+                      :Br .BBFi                B0                           \n\
+                     rB, BB,                    B:                          \n\
+                     Bi :2                      1S                          \n\
+                    0X                          5U                          \n\
+                    B:                          Bi                          \n\
+                    B                          MP                           \n\
+                    B                         NB                            \n\
+                    F0                       YB8j,                          \n\
+                     B7                         :BB                         \n\
+                     .BN                      q   Bj                        \n\
+                       jXjG                   BB  :M                        \n\
+                        :BP                   YBG :B                        \n\
+                        B:  UF                 BB :B                        \n\
+                       u0  B5BL                2B ;N                        \n\
+                       k5  B  B                :k Ei                        \n\
+                       .B, LX Zr               75 B:                        \n\
+                        iB  BrB7    :77777:i.  LB :B                        \n\
+                         iB  BB   U5UvL7v7ujMB. B7:B                        \n\
+                          Yk 7L :j:          ,B  YBr                        \n\
+                          LX 7U.B             kB  B.                        \n\
+                          rPY0 :B             ,B  B:                        \n\
+                           .Br  B.ik:      ,BUBv  B                         \n\
+                            NB  JBBEB.     7B ,  B2                         \n\
+                            .Bv     Z2      B  :OE                          \n\
+                             :OPi.: 7X      B  7B                           \n\
+                               ,7BY LX      Mi  B                           \n\
+                                 B  YU      :B  Zi                          \n\
+                                 Br UU.,,:...B. 1E: :                       \n\
+                            .r;7;UB1BUi;;r;i:5BXBUL:ur77,                   \n\
+                             ., .:i77;:r:7:7i,LL:.:,,,.,.                   \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                    ::.                                     \n\
+                           ,.       B5Bj                                    \n\
+                          :BFM7     vU SB                                   \n\
+                          .B  B5    .8U EB:                                 \n\
+                           :v  MBOkM5GBU qBNGU:                             \n\
+                            rB7 Y:.    ,    :j8MU                           \n\
+                           vG2L.               .;BP                         \n\
+                         .BM                      qB.                       \n\
+                         B7                        LB                       \n\
+                        B1                          BL                      \n\
+                       :B                    .,L    rB                      \n\
+                       ZF              .uXMXEB8F:    B                      \n\
+                       B;    .::iSUBE   rL:.         B                      \n\
+                       B:    YMFuv;.                78                      \n\
+                       P5                          .Br                      \n\
+                       :B.                        rB2                       \n\
+                        YB,                     vBS                         \n\
+                         rBB:                   .NM                         \n\
+                           vBBNYi,i:          N  YO                         \n\
+                            ,B.r7MYr          B  Bi                         \n\
+                             B:  B           YN :B:                         \n\
+                             .B. B:         .B: BB.                         \n\
+                              iB rB         7O 1jB                          \n\
+                               B. Bi        0i B B                          \n\
+                               B  B.  :L::  B  B7B                          \n\
+                              YB  B uk51vUMZB2 :BB                          \n\
+                              BJ,B2B7      .BBuLiB                          \n\
+                               Bk  B         B   B                          \n\
+                               M,  Br       iB  LM                          \n\
+                               rB  uF       B0  kB                          \n\
+                                B: XB       B.  ,B                          \n\
+                                Mr  B       M;  iB                          \n\
+                                7E  B       7Z  Nv                          \n\
+                                :B. Bv.:,:,.:B  B:                          \n\
+                             riL:8BJBJ.J:j,7r0GBO7:jYij:                    \n\
+                             ..,..1U::ii;iiii:SL:.i,, :.                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                  BO:                                       \n\
+                                 rBiBj       .BBi                           \n\
+                                 ,B .B:      BJ B                           \n\
+                                  B  YN.... ,B  M7                          \n\
+                                 ,Bi  BS5PBkMB  12                          \n\
+                               5B8YB  Bi     B  :BX.                        \n\
+                             :Bv   B. ::     B. YBNBB                       \n\
+                            NB.              .  U:  BB.                     \n\
+                           YB.                       FB                     \n\
+                           B,                         B5                    \n\
+                          Y8                          .B                    \n\
+                          GY                           8X                   \n\
+                          2P                           rM                   \n\
+                          rB     JU7;7:i               MF                   \n\
+                           BE    7ru1Uq5   7ZGGGBOZ    B,                   \n\
+                            BB                        M1                    \n\
+                             8BF:                   :UY                     \n\
+                             Bk5i  N.        ...:7PEBv                      \n\
+                            ZB  ,. 7BB.    :BOjYBBU.                        \n\
+                           .B   rBU  2BE   MB  U5                           \n\
+                           7B     LB;  MM kB  BL                            \n\
+                           :B      .Bi  BYB  BU                             \n\
+                            B.      :B  rFB  B,                             \n\
+                            7B.      B. G,1u .5i                            \n\
+                             2Br    LE :B BBj  :B                           \n\
+                               rYjUqF;LOBBL uBXLL                           \n\
+                                u7:LB  :BF2  B. :BOr                        \n\
+                               BqYr:: rB. B, LM85:YS                        \n\
+                               B  .NEFB.  .NG .:i Bi                        \n\
+                               MP  B:       iSBL:7B                         \n\
+                               :B  B,        iX  B7                         \n\
+                           ,:::rZB BYrrL:Lr:LB. BBi.::.                     \n\
+                          .:7r7:i0BBYirrrr7i;0BBBri;ir:                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                     .:         .                           \n\
+                                    BB2Mv      B8kj                         \n\
+                                    B:  BY     B  Bu                        \n\
+                                    .B  .B     B  :B                        \n\
+                                     LM  Br    Gi  B:                       \n\
+                                    :LB5 7Bk2Y780  qv                       \n\
+                                 7BBMUiB: ,::iirB  U5                       \n\
+                               NBX:             UM SBq                      \n\
+                             :Bj.                   .Y0i                    \n\
+                            rBr                       .MM                   \n\
+                           :B:                          BJ                  \n\
+                           uN                           .B.                 \n\
+                           LN                            X5                 \n\
+                           PS    ...                     .B                 \n\
+                           :B    SEBMN8vr                 B                 \n\
+                            EB       .::.  iqZqE1Li:      B                 \n\
+                             BY               ..irUS     :B                 \n\
+                              BM7                        B7                 \n\
+                              BYX0                     :Bu                  \n\
+                              YU .U                  :MBi                   \n\
+                              iB  Bi             r1kMEU                     \n\
+                               B  7B           O YBY                        \n\
+                               ku  Br         BS k2                         \n\
+                               jP  22        qB  B                          \n\
+                               UF  jq       .B  7Z                          \n\
+                               B:  Br       ;M  YZ                          \n\
+                             .Uv :BL        .B  .Bi                         \n\
+                             Mr MB. X1BM8MBO7MBL .B;                        \n\
+                             LBPN  0P       iMYFM :B                        \n\
+                              NE   B          B G8qB                        \n\
+                              vE  7Bi         B. ,G7                        \n\
+                               B  SBB         B.  0j                        \n\
+                               E7 vUB        uB  .B.                        \n\
+                               Fu  ,8        B.  Br                         \n\
+                               iB  qF        B  :B                          \n\
+                           .:,::Bv BLiiL:77iiB :B1:,.:                      \n\
+                           .7:r:LBMNv,rrY:r:rB2BF:rYir                      \n\
+                                          .   :                             \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                      ;r:       ;BSU                        \n\
+                                     :B5UBU     P8 BB                       \n\
+                                      ;Z  NM    :B  BZ                      \n\
+                                       7B: .O7   OU  B.                     \n\
+                                    ,8MBBBq  BGBJ1B, UZ                     \n\
+                                  78B7:   ,     .,XB .B                     \n\
+                                 U0,               7  MB5                   \n\
+                               :B:                      ;Br                 \n\
+                              ;B.                        7Bi                \n\
+                              Bi                          :B:               \n\
+                             7B   ii.                      ,B               \n\
+                             BL   r2MBMuu:.                 B7              \n\
+                             B.       .iUMJ  v;.            LE              \n\
+                             kk              LOBBSXr.       iB              \n\
+                              BY                .,UqMO8:    Xu              \n\
+                               8F,                    :     B:              \n\
+                                BN                         B8               \n\
+                              .BX                        :BN                \n\
+                             .BL                      .qBBv                 \n\
+                            7Br UU                 ,kB8Y:                   \n\
+                           LX  MB,                .,vB                      \n\
+                          5U  BBP                 B  B                      \n\
+                         ;B  q;M.                MBi 7B                     \n\
+                         S2 :E B                8J.B  BU                    \n\
+                         XL :BMB                B: LN  B:                   \n\
+                         YB  Br     . :.. .     7PO 0U rB                   \n\
+                          B, B  .0N2GUZPFNBBBBjr  :BBB  B                   \n\
+                          BB:B iBY           .LBB.  BO  B                   \n\
+                          BYYY Br               iB, P. BE                   \n\
+                          jM   Bj                iB rBBM                    \n\
+                           8B.  B8BES         rqr:B  :B                     \n\
+                            vBB, :,.B        :BYBB.  0E                     \n\
+                              :1Bi  B        B7     qB                      \n\
+                                5F  B        B   7ZGU                       \n\
+                                UU :B       .B  uq,                         \n\
+                                17 7N       Y2  B:                          \n\
+                             :.i0Z BUiiL:7r;NX iBY ;..                      \n\
+                            .r7iYMOBv,rrY:YiYB1B0r:Ji:                      \n\
+                                              :                             \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                   .Li                      \n\
+                                               ::,.BBFB                     \n\
+                                          LPMB01FZJ2:rBNr  :Y               \n\
+                                       :MBFr      qXri  vBBBBE              \n\
+                                      LB5          ,Y2Bj   rBB              \n\
+                                     :B.               Lr .  rBi            \n\
+                                     Bi                   rOBi.S2           \n\
+                                     B                      :BB.kB          \n\
+                                     B                        5i qB         \n\
+                                     B,                           B2        \n\
+                                 .:  YB                           iB        \n\
+                             .FPEFvuYUBG                           B        \n\
+                            kY7   ...  MO                          B        \n\
+                           Mr  rBX21JuBi2BF:                      Nk        \n\
+                          B:  MB.    75.  JS                     UB.        \n\
+                         :8  UB     O7                         .MB          \n\
+                         XU  B     BY                   .,i::;BB7           \n\
+                         U0  B    iB                    .BL7uBG             \n\
+                         ,B  GX   BL                   EOFM   Br            \n\
+                          B1  B:  B                  ,BM   Bi  B;           \n\
+                          .B7 .B;uB                  BJ    ,B  7B           \n\
+                            qU7BMJ:                 .B      B:  B           \n\
+                             BB.                    rB      B.  B           \n\
+                            P2    :7urJPkXFUY7:;.    PBv   LB  qB           \n\
+                            B   ,BBvLii::,:irvFGGqj   iBB ;Z  kB.           \n\
+                           :B   BU               .7Sr   BBU  BB.            \n\
+                            B.  JB                  7k  .B22Zi              \n\
+                            LBi  jB5U:               B:  B,                 \n\
+                             :M0i :iNB         GOB, 7B  :B                  \n\
+                               ,UB: .B        7B  717  .BL                  \n\
+                                 B. vN        Bi  7:77BBU                   \n\
+                                 B  MY       iB  BL:7i.                     \n\
+                                iB  B        G: UZ                          \n\
+                             :.ijB BS:iL:7vi;B.7B7:.                        \n\
+                             riiLBOG7,rrJ:ri;qBB5:r:r                       \n\
+                                          .                                 \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                SZB                         \n\
+                                              ,B7JM      i                  \n\
+                                        v8M00kBBqB5i   iB2B:                \n\
+                                     rOBU;:..    .YB05Bi Jr                 \n\
+                                   :B8i   YLuLuY2    :BY0.                  \n\
+                                  XB,     .:.,.:i  L1:  :O:                 \n\
+                                 YB                .:EBL  EP                \n\
+                                 B.                    5B: BO               \n\
+                                rB                      ;L  Br              \n\
+                                iB                          :B              \n\
+                                 B,                          B:             \n\
+                                 iB                          B,             \n\
+                                  qBi                        B:             \n\
+                                .SSGN                       :B              \n\
+                               ;Br                         :B.              \n\
+                              :B   Mi                    .kBi               \n\
+                              Fj  BB                   GBSL                 \n\
+                              5J rB0                   iB2                  \n\
+                              UU YBr                F81  BL                 \n\
+                              :M Yk                ,BYBi iM                 \n\
+                               B :S                BU B. :B                 \n\
+                               B ,B                B YM  B:                 \n\
+                              2u X8  ,;75rLYL7:    BjB  MZ                  \n\
+                              O57B  M8Jvriri7v0Gu  vB  ZG                   \n\
+                              .Br  BU          .kB .F  B                    \n\
+                               B  2B             ELiB .B                    \n\
+                               B. BJ             Lj UqkJ                    \n\
+                               Bi  MXBi      ,OMiB:  B:                     \n\
+                               :B.  .Nk      B5BBZ  YB                      \n\
+                                :M0  XL     :B     ;B:                      \n\
+                                 25  B,     rE ir:NB:                       \n\
+                                 B  .B      :M :Bk.                         \n\
+                                :B  PY      rO  Br                          \n\
+                             :.iJB  BY:7:r7:rB  Bj..:                       \n\
+                             ;:iLMOB0:i;L:;7rBqBZ:L::                       \n\
+                                              .                             \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                           .j7                              \n\
+                                          5MFB:      :7.                    \n\
+                                         BM iZ     iBuB1                    \n\
+                                       .BB 7B,    YB. B:                    \n\
+                                   iXPBBB rMqYPBBBB  FF                     \n\
+                                 JBGv.           : 7BB                      \n\
+                               5Mr.                vrkB.                    \n\
+                             .BO                      vB7                   \n\
+                             B1                        .Br                  \n\
+                            7B                          .B.                 \n\
+                            Bv    77:.                   Xk                 \n\
+                            B:    iu1EB0Sk   ..          .B                 \n\
+                            B,         .::   uBEFLr:i.    B                 \n\
+                            10                 .:7YPX:    B                 \n\
+                             BY                          :B                 \n\
+                             :BN:                        B7                 \n\
+                               :BB.                    .BM                  \n\
+                               :B                    iOBL                   \n\
+                               vB  U,         ,L7r50BB7                     \n\
+                                B  Bv         .LFqi jN                      \n\
+                                BB iB           Ui  Bi                      \n\
+                                BBi B.          B. Bq                       \n\
+                                BrB rB         UN iB                        \n\
+                                S:B. B         B  B:                        \n\
+                                LNB  B .JJur:  B  B2                        \n\
+                                BBq.vBBUJ7;J2NrEq  B                        \n\
+                                B7;rBB.      .M7EZrB:                       \n\
+                                Pi  5i        B: iB,                        \n\
+                                YB  Bk       ,B  .B                         \n\
+                                UB  ,B       ,B  B5                         \n\
+                                Fu   B       7B  B,                         \n\
+                                7q  .B       B.  B                          \n\
+                                :B  Y8       B  LB                          \n\
+                           ,::::iB, B5i7:7virB  Bu;.r:                      \n\
+                          .:7r7iiUBMB:irY:rirBNBB:;r7:7                     \n\
+                                   .      .   ,:                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                              UU,                           \n\
+                                  Oki       .BFOX                           \n\
+                                 BLrB.      B7 LS                           \n\
+                                 B  Mr     :B  Xr                           \n\
+                                .B  YBZ0EMjBr  Bi                           \n\
+                               :Bq  Br     B  PBG8F.                        \n\
+                             7BB7B  B.     J  B:  v0:                       \n\
+                            MB:  B. :               BM                      \n\
+                           NB    .                   Bk                     \n\
+                          ,B.                         B,                    \n\
+                          B;                          j8                    \n\
+                         .B                           iB                    \n\
+                         iB                           :B                    \n\
+                         rB               . ,.ivL.    XZ                    \n\
+                          B    7E8M1MMU   UOkXuJv    iB:                    \n\
+                          vB      . . .             rB.                     \n\
+                           iG.                   .:88,                      \n\
+                            ;Bku:.            L. :u1B                       \n\
+                              ,FBBUF8B7     :MM  .  EB                      \n\
+                                 kq  BB   ,BM: ,Bk   B7                     \n\
+                                  jB  8B iB7  OM:    vG                     \n\
+                                   iB  BUB   B2      F5                     \n\
+                                    B. OUB  BJ       B.                     \n\
+                                   U1  B B  B       BE                      \n\
+                                 UY. .BB Ev :B    .5S                       \n\
+                                 BkjOM.:MSBU7NL25P1,                        \n\
+                               Yqr .Bi .BZX  BUii.                          \n\
+                              :B,Nj:M  B, Bi ;YLFrB                         \n\
+                               B  :  2Z5  .581i.  B                         \n\
+                               8P:UBG7       .Br .B                         \n\
+                                B. vM         B  M5                         \n\
+                                LB  B.,..:,:.:B iB,                         \n\
+                              .7:MBMBv:viLiL:7BBBL;7rY:                     \n\
+                                . ii::iiiiiii:7v:.i ,..                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                           .                                \n\
+                               ,ZBB       MMPB                              \n\
+                              .B, Bv    .Br  B                              \n\
+                              rB  B.    BO  B2                              \n\
+                              5F  B    ,B. ,B                               \n\
+                              B. iB::iUMB :BF.                              \n\
+                              B  Bq2UiLv  BXY0BBr                           \n\
+                            :NB vB        .    iNBE                         \n\
+                           BB;  .                 JBY                       \n\
+                         :BN                       .B7                      \n\
+                        .Br                         .B.                     \n\
+                        BU                           5M                     \n\
+                       :B                            iM                     \n\
+                       MB                            7B                     \n\
+                       B.                .Y55UBMM;   Bk                     \n\
+                       B:     .,iLJY8Br  .jr:..     rB                      \n\
+                       Bk     UZX7rr.,              B,                      \n\
+                       :B.                       .0B:                       \n\
+                        uB:                     LMjB                        \n\
+                         :BGi                  ::  B                        \n\
+                           jBB8jr              Bi jX                        \n\
+                              7BG 1.          kB  B.                        \n\
+                               :B 7B          B, .B                         \n\
+                                B. ZB        :B  iB                         \n\
+                                Y0  Br       :B  7B                         \n\
+                                :B  uP       .B  .B                         \n\
+                                BU  Mi        :Bi rk.                       \n\
+                               BE .8BL5ME00qB0 ,BB  B                       \n\
+                              20 iOLBX..    .5B  qBJB                       \n\
+                              uBJB GU         B:  UB                        \n\
+                              iB7  B          BM  ,B                        \n\
+                              ,B   B         7BB  B7                        \n\
+                               BU  MB        1ZM :B                         \n\
+                               .B   B        Lk  ,B                         \n\
+                                B1  B,       LB  5F                         \n\
+                                :Bi B7.:,:,.. B. B:                         \n\
+                              .riSBFBUi7rvv:7rjBB2iLYY.                     \n\
+                               .  :L2:ririri;i:ii:,..:                      \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                              ,0Fv        ,:.                               \n\
+                             vBr7B     :GBUB5                               \n\
+                            ,B. PY    jBi uN                                \n\
+                            Bi .B   ,GU  Bq                                 \n\
+                           :B  BM25PBr UMBBSX.                              \n\
+                           Bu 5B;i.    i  .:XB0v                            \n\
+                         :BBJ S               :58.                          \n\
+                        S0,                     ,Mr                         \n\
+                       BM                         Bv                        \n\
+                      BE                           B,                       \n\
+                     PB                       :,   kS                       \n\
+                     B.                  i70GBMu   :B                       \n\
+                    LO             .:  LBZSi:       B                       \n\
+                    X2        .v2MEBO.             :B                       \n\
+                    7M    .kB0BFY,                .B:                       \n\
+                     B     i.                    rBY                        \n\
+                     UB                         7B.                         \n\
+                      5Bi                        UB.                        \n\
+                       7BB7:                      iB:                       \n\
+                         r1BBO:                 iY :B7                      \n\
+                            iB.                 .BB  Xu                     \n\
+                            SY B                 iBB  uY                    \n\
+                           iB  BB                 BrB  O:                   \n\
+                          ,B  5J;B                B 17 u2                   \n\
+                         .B7 iB  B                qBZj :B                   \n\
+                         YM ,B iBZ                 :Bi uX                   \n\
+                         Zr BBBE   7XBBBBMGEBMBS1.  B  B:                   \n\
+                         B. jB7  qBB7,.        .7B; B:SB.                   \n\
+                         rB  B  BB               .B :kFB.                   \n\
+                          BMMG 5M                 B:  1B                    \n\
+                           SM  MB ri         .BM1BJ  1B                     \n\
+                           vB   MBXBr        BJ.v. rMP                      \n\
+                            B0     ,B        B.  OBj:                       \n\
+                             1BSL   B7       B, .B                          \n\
+                               .ZB  uY       Jk :M                          \n\
+                                 B  :B       ,B ,B                          \n\
+                                 B2 :B.,,:,.,.B LB: :                       \n\
+                            .rrvrJBYB0irr77:7rFBMuiLrJiU.                   \n\
+                             .: i.:UFr:r:7rii::7,,,i:,.,                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                            .:.                                             \n\
+                           iBYBi                                            \n\
+                      ,  ,iBF2U15E0GBX1;                                    \n\
+                    .BBBMY:..:7k:    .vqBM.                                 \n\
+                    SBF:  :kMJ7:         YBk                                \n\
+                   M2    :kr               BJ                               \n\
+                 :Br YB1                    B                               \n\
+                LB:vBS.                     B:                              \n\
+               iB .B                        B:                              \n\
+               B:                           B                               \n\
+              vB                           UB  .                            \n\
+              B.                          vB251U55X5.                       \n\
+              G2                         LB: .     rY2                      \n\
+              .B                      .v88.jBF1UFB7  ;B                     \n\
+               8B                     Jq:  GX    .8B  :M                    \n\
+                BB.                         :X     FM  Uv                   \n\
+                 YBSi,,:.                    iB     B. ,B                   \n\
+                   iBEvLZr                    MU    B. iB                   \n\
+                   Bi  OZS1                   ,B   .B  BJ                   \n\
+                  Bv  BY  GBi                  B:  Bv uB                    \n\
+                 rB  Mk    LB                  ZP.OY ,Bi                    \n\
+                 YM  B      Br                 .qGBi:B,                     \n\
+                 5S  B      u0                     BB                       \n\
+                 UB  ES    FBY    .::;uL5LFrLJL,    jM                      \n\
+                  BM  1L iMq   :SES812j77vri7irGBi   B:                     \n\
+                   EB. iBB.  .rq:               7B   Br                     \n\
+                    :E5UBX  :E                  JM   B.                     \n\
+                        B,  B                77SB   BE                      \n\
+                        2F  Bi  MZM         Bqjv  jBL                       \n\
+                        .B.  v2Si Bu        07  B17                         \n\
+                         iB0Y::r   B        LN  B                           \n\
+                           :7JYYB  FN       iB  B:                          \n\
+                                UB  B        B; LU                          \n\
+                                 Bi B.,..:,, LB LX:                         \n\
+                             riYiuBBBv:LiLiv:;1BBjijJrir                    \n\
+                             .., ,.:::iiiiiiL.i,:.:,:,..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                               u0Z,                                         \n\
+                        .      LBrB;                                        \n\
+                       5857    :B8XBX77;,i.                                 \n\
+                       .B.:1L2B8J      .:XBBi                               \n\
+                         ZkBu.   ,YJLjJu.  :MMi                             \n\
+                        JL,  7v  7L:::::.    .BN                            \n\
+                      :B; .BBFi                B0                           \n\
+                     rB. BB:                    B:                          \n\
+                     Bi :2                      1S                          \n\
+                    EX                          5U                          \n\
+                    B:                          Bi                          \n\
+                    B                          MN                           \n\
+                    B                         NB                            \n\
+                    FN                       YBOj,                          \n\
+                     Bv                         :BB                         \n\
+                     .BN                      P   BJ                        \n\
+                       uPjG                   BB  :M                        \n\
+                        :BP                   YBG :B                        \n\
+                        B:  U5                 BB :B                        \n\
+                       uN  B5BL                UB rN                        \n\
+                       SF  B  B                :S Zi                        \n\
+                       .B, LX Zr               7F M:                        \n\
+                        iB  BrB7    :7r7r7:i.  LB :M                        \n\
+                         iB  BB   U5U7L7L7ujMB. B7:B                        \n\
+                          Lk 7Y :j:          ,B  JBr                        \n\
+                          YX vU.B             kB  B.                        \n\
+                          rPY0 :B             :B  B:                        \n\
+                           .Br  B.iS:      ,BUBL  B                         \n\
+                            qB  JBBEB.     7B .  B5                         \n\
+                            .B7     G1     .B  :OZ                          \n\
+                             :MPi.: 7P      B  rB                           \n\
+                               ,7BY LX      Mi  B                           \n\
+                                 B  JU      :B  Ei                          \n\
+                                 Br UU.,,:...B. UN:                         \n\
+                              ;J:YB1B1:ririi:5BkB1;YiLr:                    \n\
+                              .,..7L7:iir:r7,iYL:::.,...                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                    ::.                                     \n\
+                           ,.       B5Bu                                    \n\
+                          :BFM7     vU SB                                   \n\
+                          .B  B1    .8U 0B:                                 \n\
+                           :v  MBOkM5GBU NBN8U:                             \n\
+                            rB7 L:     ,    :j8Mu                           \n\
+                           vG2L.               .;BP                         \n\
+                          BM                      NB.                       \n\
+                         B7                        LB                       \n\
+                        B1                          BY                      \n\
+                       :B                    .,L    rB                      \n\
+                       GF              .ukMX0BGFi    B                      \n\
+                       Br    .::iFUBZ   rL:.         B                      \n\
+                       B:    YMFUv;.                7O                      \n\
+                       XF                          .B;                      \n\
+                       :B.                        rB2                       \n\
+                        YB,                     7Bk                         \n\
+                         7BM:                   .NM                         \n\
+                           vBBNLi.i:          N  YM                         \n\
+                            ,B.r7MYr          B  Bi                         \n\
+                             B:  B           Y0 :B:                         \n\
+                             ,B. B:         .B: BB.                         \n\
+                              iB rB         7O 1JB                          \n\
+                               B. Bi        0i B B                          \n\
+                               B  B.  :L::  B  B7B                          \n\
+                              YB  B US11LUMZB2 :BB                          \n\
+                              Bj,B2B7      .BBuLiB                          \n\
+                               Bk  B         B   B                          \n\
+                               B,  Br       iB  LB                          \n\
+                               rB  uS       BE  kB                          \n\
+                                B: XB       B.  ,B                          \n\
+                                Mr  B       Mr  iB                          \n\
+                                7E  B       7Z  qv                          \n\
+                                :B. Bv.,,:..:B  B:                          \n\
+                              .r:MBJBj.j:j,7rEGMOv:Lji,                     \n\
+                               :..LU::iiri;ii:FL:.i.:..                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                    ,7:      ::                             \n\
+                                    BLB7    qBMZ                            \n\
+                                    B .B    B: B7                           \n\
+                                    B  XE   YZ iB                           \n\
+                                    UN  B,   B: B7                          \n\
+                                     Bi 7BM8ZMBPBMM1L                       \n\
+                                  .Skj.            :FBM,                    \n\
+                                 ZBr                  7MB.                  \n\
+                               .BM                      LB7                 \n\
+                               BP                        :BY                \n\
+                              kB                          .B.               \n\
+                              B                            XS               \n\
+                             YE       SBMMMBMBY   OBMBM,   rB               \n\
+                             jG                            :B               \n\
+                             rB                            MY               \n\
+                              Bi                          vB,               \n\
+                              .E                 :::,    NB:                \n\
+                                u5:           :BXjv7UBL.0B.                 \n\
+                                ;BB80S:      7B7rJu  YBB.                   \n\
+                               MB   :i        NS7,XP MXM                    \n\
+                              .B   PB.           :N.J2PL                    \n\
+                              :B  LBB           .B. .vB                     \n\
+                               EF .BJ           .B .kB                      \n\
+                                BL ZF            i2LM1                      \n\
+                                .B  B.              LS                      \n\
+                                iB  B:    ..:.     .B7                      \n\
+                                78,5G  iNBME0Y8M  .Bv                       \n\
+                                 5B7  GSi.    BF  B,                        \n\
+                                 B:  BB      .B  SB.                        \n\
+                                UB  jBB:     Yq  BBB:                       \n\
+                                :B  XrB.     :Br L B,                       \n\
+                                 UP  iB       UB7 ,B                        \n\
+                                 Mi  B.       B. .B,                        \n\
+                                 B. BO. .:,:..B  BP                         \n\
+                              .7;BMEB:r7:u:Lr:BBBM;i77,                     \n\
+                                ..2L::iiririi:70F,...,.                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                        rvY     ,rY                         \n\
+                                        Bi2Bi   BP2B:                       \n\
+                                        B. .B7  rB :B.                      \n\
+                                        :B  ,Bi  N2 rB                      \n\
+                                         .Bi :B7r7B:.BB                     \n\
+                                        ,uBB  :vir:7LUBNXBX:                \n\
+                                      iZBi               .SBBi              \n\
+                                     EBr                    :EM             \n\
+                                    8B          .             .Bi           \n\
+                                   UB          kMMEMBkU   .1Ur.:B7          \n\
+                                  .B                       r7LY 7B          \n\
+                                  YG                             B7         \n\
+                                  Bi                             rZ         \n\
+                                  BY                             57vLL.     \n\
+                                  uB                             BJBijB     \n\
+                                   BG                           .B0Y  B     \n\
+                                    F8:                        :BiB.  B     \n\
+                                 ,Li:BBu                      :PU8L  BZ     \n\
+                               rBSr:,.,                 i.,vYFB2B.  5B      \n\
+                              B0  rYFL77                YBBBMPY.  ,BB       \n\
+                             Bk iB7.. BX               .        u1Br        \n\
+                            :B  BL   .B.              qBkZNN8PFF5:          \n\
+                            7M .B    L8              rB                     \n\
+                            ,B  EB   B7              Bi                     \n\
+                             BB  LB77B              UM                      \n\
+                              BE: .BB   .,.,.,..    NN                      \n\
+                                MBBP.ikPZEG0Z0EBBk:  :Bk                    \n\
+                                N,  F7           uUB5  BP                   \n\
+                               JZ  BB               BB  Bv                  \n\
+                               uB  ,OBBPX      :MNi BB  BE                  \n\
+                                BBi .  YM     .B:,00r  0B                   \n\
+                                 .LBP  Br     5B :iY7GB7                    \n\
+                                  :B  7B      Br k8ir.                      \n\
+                                  B. .B       B  G:                         \n\
+                                .S5 ,BG..::.,:B  Bv :                       \n\
+                            .Y;1iBBZBLri7rj:L7BNOBir7uiY.                   \n\
+                             ...,:iLi :.i,iii::7Y..,,,.                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                          :                                 \n\
+                                        7BqB:    q0G                        \n\
+                                        02 ,B   :B.BN                       \n\
+                                        qk  BP  iB  B.                      \n\
+                                        .B  :B   B  0v                      \n\
+                                         8B  BP51BB2BB:.                    \n\
+                                      .UOB2   :::..,iL1qBZv                 \n\
+                                     2BM,                ;MB5               \n\
+                                   .BB.                     kB;             \n\
+                                  .BF         iY7,::i:       .BG            \n\
+                                  Bj          7JPY1kkY   .88Xr Bj           \n\
+                                 :B                        .,: :B,          \n\
+                                 PS                             BL          \n\
+                                 X5                             ju          \n\
+                                 uM                             7qBZMF      \n\
+                                 :Bi                            BvB  B.     \n\
+                                  iBi                          iBS2  Bi     \n\
+                                   :BB;                       UBrB.  B      \n\
+                               :PBBXU01                     :rMMB.  BN      \n\
+                             ,BB,::i..                 JkBBBBMFY   BB       \n\
+                            .BY 7BJrvLB.                .rJ,,    1B7        \n\
+                            OP .B.   7B               kN7L:YLPuBNS          \n\
+                            B, MB    Br              2B::;:i:r:.            \n\
+                            B: uB    B              .B.                     \n\
+                            UB  YB1 Gq              Bv                      \n\
+                             ZBi  SBZ              .B                       \n\
+                              :5B8Yk iXqE0Z0ZNEMU:  :BP                     \n\
+                                B: .OY         .jBMB  jB:                   \n\
+                               B5  BJ              :BL :B,                  \n\
+                               BJ  BB0BU:      :Sq  B1  Bi                  \n\
+                               iBY  .;:BJ      B.J2Mr  NM                   \n\
+                                 L1BS  B      uB..iY;NB1                    \n\
+                                  7B  LB      Bv.MX7Y:                      \n\
+                                  B. .B       B  B                          \n\
+                                .jN YBU..::.,:B  B: :                       \n\
+                            .Y;5iBB5B7ir7ru:Y7B0OMj:j2iJ.                   \n\
+                             .....7Li,,:r,i,i::vY... ,..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                        ,BMY     :;                         \n\
+                                        Bq BB    BJBr                       \n\
+                                        BO  B7   B .B:                      \n\
+                                         B  .B   Bi ;B                      \n\
+                                         ,B  0B::0B. BY                     \n\
+                                        .5Bq  127YU7vjBEMqr.                \n\
+                                      ;BMu              .7NBU               \n\
+                                     BBi                    YMr             \n\
+                                    Bq                        B5            \n\
+                                   BL         .8OZNNE0:   iLr  MM           \n\
+                                  1B               ...    7YJ5: BY          \n\
+                                  B.                            .B          \n\
+                                  B                              Bi         \n\
+                                  B                              B,ir:      \n\
+                                  Bi                             B7BYBU     \n\
+                                  7B:                           1PB. :B     \n\
+                                   ,BU                         iBYB  ,B     \n\
+                                 .:iYBBi                      jZuB.  B7     \n\
+                               FBSjr:..                   ,:Xr51B.  B8      \n\
+                             ,BZ :7vuvu,                EBBBXuFi  .B8       \n\
+                             BL 7B7  ,B:               ..       jZ8r        \n\
+                            7B  B,   ;B               BMGEq0Mu5SF:          \n\
+                            qj 7B    Bi              UB                     \n\
+                            vM  BU   B              .B.                     \n\
+                             Bj  OBiYB              Bv                      \n\
+                             .Bk  vBB  ..,.,.,.     BY                      \n\
+                               ,BB5L7jMqZEG0G0GBBJ:  1Br                    \n\
+                                Br  Y:          .YEB7  Bq                   \n\
+                               18  BY               Bj  Br                  \n\
+                               kB  YBBBBM      :MB, BY  BS                  \n\
+                                BBi .,.:G     .B,:kB7  qB.                  \n\
+                                 .LBX  B,     5B ::U;ZB7                    \n\
+                                  7B  7B      Br kBi:.                      \n\
+                                  B. .B       B  G:                         \n\
+                                .S5 ,B8..::.,:B  Bv :                       \n\
+                            .Yi1iBBGBYri7rj:L7BqMB;rvuiY.                   \n\
+                             ...,:iYi :.;,;ii::7Y...,,..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                        ;7L      .                          \n\
+                                       iBi2B    ;8G0                        \n\
+                                       rB  MB   Uu Bu                       \n\
+                                        Zu  B7  ;B  B.                      \n\
+                                         B; .B: .Bi FB                      \n\
+                                        .0B. uqkUX8FEBF1r:                  \n\
+                                      iMBv            .:FZB2                \n\
+                                    .MBi                   5Br              \n\
+                                   :Br                       7B.            \n\
+                                  .B:         LS5UjUUU     .  :B:           \n\
+                                  BL          ::,ir;rr    EM5G iB           \n\
+                                 :B                             Mv          \n\
+                                 r8                             iB          \n\
+                                 NF                             ,B ::       \n\
+                                 :B                             rO52uB:     \n\
+                                  ME                            PUB  Bu     \n\
+                                   EB.                         ,B1S  FX     \n\
+                                   :MB8.                      :1jB   B      \n\
+                               rE8j:.,,                    .i7NSB.  Bk      \n\
+                             iBM ,Lriir                i5BBBMP5v  .BB       \n\
+                            .B: kBu..rB                         Y0M;        \n\
+                            E5 :B    vF               BMqUYju8XM2,          \n\
+                            B, Bq    B,              MM .....               \n\
+                            XL rB.  .B              ;B                      \n\
+                            :B: ,BU 5S              B.                      \n\
+                             :BY  UBN  ... ...      B:                      \n\
+                              .LBBU:,LFSNPNXqPBMMi   Bk.                    \n\
+                                8, ,B:          i18Mi rBr                   \n\
+                               MJ  Bi               BL .B.                  \n\
+                               BB  E8BBBM      r8M  EB  Bi                  \n\
+                                BS  ,  FS      B,LqOi  8B                   \n\
+                                 ruBF  B      YB  :Li5BS                    \n\
+                                  JB  5k      B; BkrL:                      \n\
+                                  B. :B       B  B                          \n\
+                                .1U iBY..::.,:B  B: :                       \n\
+                            .LiUiBBXBr,Y:YrrivBkZZY:YjiL.                   \n\
+                              ...:i7:,.:i,i,i::7v... ,..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                        BZB2     ,                          \n\
+                                       iB .Bi   7BB:                        \n\
+                                       :B  55   B:,B                        \n\
+                                        B7  B   B  Br                       \n\
+                                         B, Br  Fq YX                       \n\
+                                        ,BB .1SU0B1PBM5i                    \n\
+                                     .SMEr.          :UBMq.                 \n\
+                                    kBj.                 LBP,               \n\
+                                   BM                      iBU              \n\
+                                  ZB                        .BO             \n\
+                                 YB          .,.,             BL            \n\
+                                 B;          YOYG0PZZ   :2j;  ,B            \n\
+                                 B.                     .iru,  B.           \n\
+                                 Mr                            B,           \n\
+                                 ;B                           ;B            \n\
+                                  qB                         ,Br            \n\
+                                   7Br                      rBv             \n\
+                                    BOr                   Ju5.              \n\
+                                   q7.: J,       ,ii::vFEji                 \n\
+                                  LBLZi ON        rNB7rZ0                   \n\
+                                  BBr  iBr        F5,k ,O                   \n\
+                                 .B: NBv:        jB  B vk   ,UE             \n\
+                                 rB. LB:         B   B  q2uUS.BU            \n\
+                                 MBB   Y7        BU  iB   ..iSO.            \n\
+                                .BB2E7 :B  iii:.  uB  :YUUYB2r              \n\
+                                  vj7BBi77Xv7:iUX  1G   ..,                 \n\
+                                      Sr iM  L7JB  .B                       \n\
+                                 BBG  N5 i8 YEuq   X0                       \n\
+                                 B j7:: :Br L2   rMB                        \n\
+                                 B LMJSj:,  Uu ,BB:                         \n\
+                                 B  2G       B  JL                          \n\
+                                 B. .B...:. ,Bu vS,                         \n\
+                              .7iPB.GM:;i77,ivBjBZ;7v7.                     \n\
+                                ..20q:i:r:;ii:7PU:...,                      \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                        28u    ,OBi                         \n\
+                                        B.LB   B,:B                         \n\
+                                        B  B:  B  B                         \n\
+                                        B  Gr  B  B.                        \n\
+                                        Br 1B:iBu BU                        \n\
+                                       UBB .LjYL, i5XBv                     \n\
+                                    :BB2.            ,FBM                   \n\
+                                   UBU                  UBv                 \n\
+                                  JB.                     BY                \n\
+                                 :B                        B:               \n\
+                                 M7                        rB               \n\
+                                 B.         :i:. .         ,B               \n\
+                                 B         .SFFSNPN:  2GBE  B               \n\
+                                 B:                        :B               \n\
+                                 iB                        BN               \n\
+                                  kB.                     jB                \n\
+                                 :BM8:   ;;             :BB.                \n\
+                                kB:    j. vB.  : ,.::7ZBBv                  \n\
+                               UB      uB: .BUB2FBkYU5:                     \n\
+                              .B        .Bu :BB EX                          \n\
+                            ,SBL          B, XJ B                           \n\
+                            FBBB     YqEj.7B ,BYr                           \n\
+                             :7BZ       ;EBM  B:M                           \n\
+                                EqUjMBuY  iN  B .M                          \n\
+                                   7BBBB  rB7qBLiBB                         \n\
+                                  iB  .  kM1BL   :B                         \n\
+                                  Bv JSj1Y   UB  :M                         \n\
+                                  B  B:       B. B,                         \n\
+                                 :B :B. .,....B ,B...                       \n\
+                            .rrJ:uBLBU:;;77:viB2BJriL7v7,                   \n\
+                             .:,,::uL:iiririi:72i.i.,,.,.                   \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                        YBB7       v:                       \n\
+                                        BiiB      BXBq                      \n\
+                                       :B  B:    XZ .B                      \n\
+                                       .B  X5    B  rG                      \n\
+                                        B. :B7:,:B  B;                      \n\
+                                      .1B;  YuSEY1  BZi                     \n\
+                                   .7BBF             .iZP.                  \n\
+                                  JOP:                  :XU                 \n\
+                                .Bq                       jB                \n\
+                               :B7                         rB               \n\
+                               Br                           GF              \n\
+                              JM    :rr;r;rr7.    i:, .      B              \n\
+                              BY    i5U5U1U52:   .FqSUMONi   B:             \n\
+                       NM8PFv Bi                             B.             \n\
+                      BB.  .2jFi                             BuYXPZ5        \n\
+                      Y8Xq:  B;M                            7BB.  :Bv       \n\
+                         .B. B B7                          .BUB  0N7        \n\
+                          B  B  BJ                        iB:.M 5P          \n\
+                          B  0M .OM7.                  .vOB. Br U1          \n\
+                          BY  50EUBBB               rBEU5: iB5  Bi          \n\
+                          .BJ                       :BNU710X.  B1           \n\
+                            UBXJUi;Y5                        UBP            \n\
+                              .:7vrYB               BEPEPE0BOF              \n\
+                                    B              rB                       \n\
+                                   8u              YX                       \n\
+                                iPMB               GP                       \n\
+                              .BM:  :iS0SkFN0k2,   rBE                      \n\
+                              B7  jGFJri:.:ij5kMBG.  GB                     \n\
+                             Mv :B:              .B5  BO                    \n\
+                             B  Bk  :r         .  BN  JB                    \n\
+                             M5 .BSM82O      :BBUZ:  rBr                    \n\
+                             .BJ     .B      Zq  ::7PB.                     \n\
+                              .5XUu  rM      B. 7B7Y.                       \n\
+                                 .B7 7E      B. qL                          \n\
+                                  M: Bi      B  J2                          \n\
+                               ..:B..B:..::.:BY B7,.:                       \n\
+                            .Y;F:UBMBN:jiJ7ri1BjBUiLruiY.                   \n\
+                              .. ..7L:.ii,i,::iUv. i ,..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                         5OBL      .LL,                     \n\
+                                        .B ;B     :B7BU                     \n\
+                                        :B  B     Br rM                     \n\
+                                        7B  B    vB  Br                     \n\
+                                        Fk  B    Bu :B                      \n\
+                                       .BN  BZS00B  B1                      \n\
+                                     iBBN    ., ,   jjXF:                   \n\
+                                  .OBOi                :Sk.                 \n\
+                                 kBU.                    :ZY                \n\
+                                BB                         B0               \n\
+                               BB                           BL              \n\
+                              vB    .:.,.,.,,.    ..        :B              \n\
+                              B;    Y8M8M8MOMi   .OM808E87   B:             \n\
+                       v8M507 B.                     . :,.   B.             \n\
+                      BBL.  57Mi                             BYMMZE2        \n\
+                      XXk2r  BiB                            iBB,  7BU       \n\
+                         .B  B Bv                          :BrB :BBk        \n\
+                          B  B  BX                        LB:,0 k8          \n\
+                          B  SB .BB2i                  ,uqB  BL k2          \n\
+                          B8  iOXJEBB               uBBSLi:XBU .B.          \n\
+                           GGr                      ,50YuSJr  7BL           \n\
+                            iBEBkkkFB                      .rOB,            \n\
+                                ...:B              .BPMXXXNS7:              \n\
+                                   :B              jM                       \n\
+                                  :BY              8J                       \n\
+                               LXMYi  ...,....     GB                       \n\
+                              0B. .i8qBBMZMBBBBNP:  vB7                     \n\
+                             jB  UNj           .rEM: :Br                    \n\
+                             B  BS   .            BB  qB                    \n\
+                             B. BB:vBBU      .BBOFS   BB                    \n\
+                             iB. ,UY .B      FB  .  EBG                     \n\
+                              rML,   iB      B. ,BqkJ,                      \n\
+                                :UB, ;B      B. Sk                          \n\
+                                  B. Bi      B  U1                          \n\
+                                .:B .B:..:i.:Bu G5:.i                       \n\
+                            .Jrk:jBEB5:27LYi7SBUBUiY72;j,                   \n\
+                             .., ..vr:,i:::i,:i1F: i.,..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                         .kM        ..                      \n\
+                                         BrSB     .GFBi                     \n\
+                                        rB  B     BS 2P                     \n\
+                                        JP  B    :B  Zv                     \n\
+                                        uF  B    Xk  B                      \n\
+                                        B2  BZS5XB  BY                      \n\
+                                     :SBN.    .,,.  0J5Y.                   \n\
+                                   YBZ1               .:qj                  \n\
+                                 rZj.                    rq;                \n\
+                                ZB.                        OU               \n\
+                               MB                          .Bi              \n\
+                              :B                            jB              \n\
+                              kU    7GNZNZq8Bi   i8MSk1vJ:   B.             \n\
+                        :i:i  B:                  . ,,:77:   B,             \n\
+                      rB5irLB:Ei                             B.ir7r.        \n\
+                      MBi:. .B7X                             BBSi:vBr       \n\
+                       .:;B. B B                            BZB  rMB.       \n\
+                          B  B YB.                         BB M SB:         \n\
+                          B  Bi 7Mv                      YBS 7P vj          \n\
+                          Bi .BU,JBBB                ,:U5L  YB  B7          \n\
+                          :B.  .:;iL:               YBBZriGBY  ZM           \n\
+                           iME2:    .                 ..i,   .MB            \n\
+                             ,7FY07UB               22rL:775MF7             \n\
+                                   .B              :B.,i:::.                \n\
+                                   JN              YX                       \n\
+                                .:jB:              MY                       \n\
+                               0OF.  .75;u;1vkL    JB7                      \n\
+                              B0  iXMXS2i7iUS8GkM5. .Bk                     \n\
+                             MS  BL              :Bi  BJ                    \n\
+                             B  Bq   :            BE  jB                    \n\
+                             Bi :MSNNPG      ,BBEXu  .Bk                    \n\
+                             .B:  ,: .B      00  . :NB:                     \n\
+                              .PUui  iB      B, :BU1i                       \n\
+                                .rB. iB      B. 12                          \n\
+                                  B. B:      B  JU                          \n\
+                                .,B .B:..::.:BY EU:.:                       \n\
+                            .Li5:UMMMu:jiY7riUBJBu:LrjiY.                   \n\
+                             ... ..7i:.ii,i,:::u2. :.,..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                          ,:                                \n\
+                                         BPBM      ikB:                     \n\
+                                        :B  B     uB PB                     \n\
+                                        Uq  B     B  Y0                     \n\
+                                        5S  B    uB  B                      \n\
+                                        N0  Bi..:B: PG                      \n\
+                                      .uB7  uFqG0i  B0i.                    \n\
+                                    :7U:             .Ykj.                  \n\
+                                  0BL                   .NY                 \n\
+                                iB1                       7B.               \n\
+                               7Bv                         LB.              \n\
+                              :Bi                           SM              \n\
+                              1B    i0q0YEPNPr   ,72Lir:,.   B              \n\
+                        ..:.  BL    ,::i,i:,:.   .;rk1JZM7   B,             \n\
+                      iMB1JBB Mi                             B. :;:         \n\
+                      BB.   rBGr                             BB8SrUM,       \n\
+                      ,7uSB. B.B                            GBB   UB:       \n\
+                          B  B MO                          YBYv UBGi        \n\
+                          B  Bi jB:                      .BB LF Fj          \n\
+                          B  iBv:UBBX                 .7SMi iB, O5          \n\
+                          uB   i7vUGJ               UBBZ7r7BM. LB.          \n\
+                           kB5:                       i.7::   8B:           \n\
+                             SU5qBPPB               7;;::i,ruB5             \n\
+                                    B              :BrYYYrjr:.              \n\
+                                   v8              rB                       \n\
+                                 ,UBi              B7                       \n\
+                               U0Zr.  iJ:::Lii.    NB:                      \n\
+                              MB  :JOBO8F2FFOBBNMY  iBu                     \n\
+                             XM  NL.            .YBi  Br                    \n\
+                             B  Bq   7            BB  0B                    \n\
+                             B: NB7NPBX       BB8rU   BN                    \n\
+                             :B.  :7 .B      0G  . :GBv                     \n\
+                              LBUYi  iB      B, :BFFi                       \n\
+                                .rB: iB      B. FF                          \n\
+                                  B. B:      B  u2                          \n\
+                                .:B .B:..::.:BJ 81:.:                       \n\
+                            .Y;S:JB0B2:UiJ7ri1BFBuiY7U;J,                   \n\
+                             .., ..7;:.i;,i:i:iNY: i ,..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                       FB8     .BSr                         \n\
+                                      YB B,    BL.B                         \n\
+                                      B  B:   7B  B                         \n\
+                                      B  B,   2U  B                         \n\
+                                      B  Bi   qN iO                         \n\
+                                     :BL .58MGNL MN                         \n\
+                                  :EBB;          .8PNi                      \n\
+                                 BBj                .Uqi                    \n\
+                               :BY                    :Bq                   \n\
+                              .Bi                       BB                  \n\
+                              B1                         Br                 \n\
+                             U8                          vB                 \n\
+                             B:                           B                 \n\
+                             B.                           B                 \n\
+                             Bi   2BFO5M5j  JkP5FU1U1    rB                 \n\
+                             XF    . . ...  ,i.::rr7r    Bv                 \n\
+                              Bi                        BB                  \n\
+                          B0q  BM:                    rBk                   \n\
+                         BB.B.  rEBU7i           , rZBk.   .:               \n\
+                         B. YB     BM7           1BF:     OMBZ              \n\
+                         vu  BSi..F0 :            B     .BX :B              \n\
+                          O:  :1jY. 8B         B. B2.  7B;  Mi              \n\
+                           JBU.   :NB          MP  70N8S  :B:               \n\
+                            .LEPYuB.            jZ.    ,iB7                 \n\
+                                 XG              :B0SGUqY.                  \n\
+                                7B  OMPkGuXMEBY.  Bi                        \n\
+                                Bv rB::,:..,::FB  .B                        \n\
+                                B  5M          B.  B                        \n\
+                                B  :BB       BBB  BB                        \n\
+                                LB  UB:     :B: ik8                         \n\
+                                 BB  MY     iB  BL                          \n\
+                                 .B  B       B  Yr                          \n\
+                                 :B .B..,:..:8i PE: :                       \n\
+                            .7rLrYBNBuirr77:LuB:Bk7iY7L7,                   \n\
+                             .:.i.:7L7:r:7rii:SB5:,i:..,.                   \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                            75i                             \n\
+                                    1MU    :BiB.                            \n\
+                                   ,B.B:   YF jZ                            \n\
+                                   5j Gi   YU Y2                            \n\
+                                   UP 7BYJYB2 YG                            \n\
+                                  uB7 2N;i;1i ;8MFY                         \n\
+                                ;ji             .vBB,                       \n\
+                              ,MF                  ,B;                      \n\
+                             .Br                     B2                     \n\
+                             BY                       B.                    \n\
+                            FM                        1B                    \n\
+                            B                          B.                   \n\
+                            B                          Br                   \n\
+                            B                          Br                   \n\
+                            OM   qqPkXSPr   :XSXFXS:  ,B                    \n\
+                             BM   ...:::,   .::::::  .Br                    \n\
+                              ZB:                   2B;                     \n\
+                               iOBU;:.:        .7YOOX                       \n\
+                                 XBiLBB    .F; iFB.                         \n\
+                                 BiL. XF  8B7:EG;B                          \n\
+                                .B :kj 1BGP 7Bi  B                          \n\
+                                UZ   :5 .B .B:  rG                          \n\
+                                 Bi   B. B.B8   qS                          \n\
+                                  1MFZ7  B  Bj 7B.                          \n\
+                                Yi  BZ,:jBSvJBSE                            \n\
+                                BO17MB,iBB .B.BM5                           \n\
+                                Bi 7.  :YB  ruj B                           \n\
+                                7B iBvS, rBBq:  B,                          \n\
+                                 B  B:       B  B,                          \n\
+                                 kM Br ,.,...B7 Bv,                         \n\
+                             riJr7BqBJ:rr7ir:UB5BYirY7L:                    \n\
+                             .., .:i::i:;ir:i:L7:.:,:,..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                       i:     :B8B                          \n\
+                                     ,BYNB   7B. B                          \n\
+                                     B7 kF   B. vE                          \n\
+                                    iM  B   BS  B                           \n\
+                                    8: BBUj2B  BB:                          \n\
+                                   5B 7PL;,:   .;kMBj                       \n\
+                                 MBk.              :ZB;                     \n\
+                               JB2.                  .BE                    \n\
+                             :0j             :rY,      BZ                   \n\
+                            rBi         LZZPNFUr.       B.                  \n\
+                           YB.   .rGMi  ::.             YE                  \n\
+                          :B,  rBMkY.                   7M                  \n\
+                          JB   .                        ,B                  \n\
+                          UU                            vG                  \n\
+                          Xk                            BBk                 \n\
+                          rB                           PB k0                \n\
+                           BY                        :GUB  B.               \n\
+                           .B2                    :kBBruB  NU               \n\
+                             GOu               ,ZBqM82:,   B:               \n\
+                              .rNBB,            .        ;Mj                \n\
+                               ,NY                 BEYZ1MY                  \n\
+                             ,Sr  U2               Mj                       \n\
+                            G8   BLk8              Lk                       \n\
+                           7B  .B  .B              GS                       \n\
+                           LB  .Bi 0k             .B                        \n\
+                            BB   rYMB.            Bi                        \n\
+                             MBJ.   B,           5Bji,                      \n\
+                               jBB8 B            ,  ;BP                     \n\
+                              2O. qBOL1NNZXG0GM1GF5v  BP                    \n\
+                             .B   ui      .       .B7  B                    \n\
+                             Nj  B2 :NUB    iFY.  .B. :B                    \n\
+                             ;B. .77Y:.B    B,jBP0k  .B7                    \n\
+                              2B1iJY7 iB    B      :XBY                     \n\
+                                ,1B.  B:    B. 5PP5ki                       \n\
+                                 OP  7B     7k 25                           \n\
+                                .B: :BY..:: LB i0..,..                      \n\
+                            .Yi2iGBqBU,YiYr;LMNBZj:jJ7Li.                   \n\
+                              ....:ii:.:i,:,::2u:., , .                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                              UJ                            \n\
+                                     L1q,    BFYB                           \n\
+                                    ;B:Xk   kO  B                           \n\
+                                    B: 2U   B   B                           \n\
+                                    B  Gi  ,B  YM                           \n\
+                                    B  B7,:MZ  BM                           \n\
+                                   :B .BMNUU   :UMqM:                       \n\
+                                 iBBr              7BBL                     \n\
+                               rBBi                  iBE                    \n\
+                             .Zk:            ,rL,      BZ                   \n\
+                            rB7         vSkBEPuv.       B.                  \n\
+                           YB.   ,jUBi  i:.             5S                  \n\
+                           B.  UNM0i,                   :B                  \n\
+                          Lk                            :B                  \n\
+                          P1                            YM                  \n\
+                          F1                            B0O                 \n\
+                          iB                           BB :B                \n\
+                           BZ                       .u5:B: Bi               \n\
+                            MB.                 .;5BBBr8Y  87               \n\
+                             7BSi,7            .NB7i;:.   iB:               \n\
+                               :GB0                    .LMM.                \n\
+                              .YJ                  MBNPUUi                  \n\
+                            .Su  iLMi              07                       \n\
+                           .Br  BU rB              qj                       \n\
+                           UZ  :B  :B              Bi                       \n\
+                           :B:  N2MMP             U8                        \n\
+                            JBu.    B:           LBY                        \n\
+                              Y0BO: B            FrvSZ,                     \n\
+                               Xk7BBMr2vY5juUUJuLr,  7Bi                    \n\
+                              BU  1E7:. :,ii.,:::irB: :B                    \n\
+                             2B  BN  :YU     ..    B,  B                    \n\
+                             2B  ,LLF7.B    BUBBUPEi  BL                    \n\
+                              EBj,ii;  B    B       UBF                     \n\
+                                iXBr  Br    B  v5PGq7.                      \n\
+                                 FM  :B     UY FP                           \n\
+                                .Bi  BJ..:: vB i0. ,..                      \n\
+                            .LiUiBX7BN,YiYriLBEB2Y,jJ7v;.                   \n\
+                             . ...vv;,.ii,i,:,2U::, , .                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                              :5F                           \n\
+                                      0JS    ;BJBj                          \n\
+                                     B0.B    Bi j5                          \n\
+                                    iB  B   kB  B:                          \n\
+                                    BY v2   B: iB                           \n\
+                                    B  BYvYBB  BB,                          \n\
+                                   iB vBZYi;   :YZBMi                       \n\
+                                 7PBr              ;BB:                     \n\
+                               :uk:                  7BL                    \n\
+                              FM.            .:Y       BJ                   \n\
+                            iB2         ;YGEZM2P.       B.                  \n\
+                           7B:    .YB:  rL,.            P5                  \n\
+                          .B:  LBBBkr.                  7B                  \n\
+                          UB   :,                       .B                  \n\
+                          GL                            7O                  \n\
+                          X2                            BBk                 \n\
+                          UB                           7B XZ                \n\
+                           Bi                        .qjB  B.               \n\
+                           ,Bi                    iJBBS7B  EL               \n\
+                            ,BM7               .PBEMZ17U   B,               \n\
+                              ;rNBB.            :        :8u                \n\
+                               rBE.                G055qq5,                 \n\
+                             ,Gk. :2.              OZ....                   \n\
+                            PB,  XrPM              7Z                       \n\
+                           iB   B  .B              X5                       \n\
+                           JB  .B: Eq              B                        \n\
+                            Bk   Y1BB.            M1                        \n\
+                            .BBu    B,           FBEr                       \n\
+                               7BBM.B            . .NB7                     \n\
+                              :0i SBBjFE0B1BE8M5O27i  Bj                    \n\
+                             :B,  N:.             .B7  B                    \n\
+                             0B  B5 ,U7M    .j;   .B  :B                    \n\
+                             rB  .7vY:.B    BLJMqFP  .B7                    \n\
+                              2BFijY7 iB    B      :qBj                     \n\
+                                ,5B.  B:    B. SN0SXi                       \n\
+                                 M0  7B     1j 5k                           \n\
+                                .B: .Bj..:: LB iZ..,..                      \n\
+                            .Yi5iOBEBj,jiJr;LMEB8U:UjvLr.                   \n\
+                             ..,..,ir,.i;,i,::1U:., : .                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                       .      NMBi                          \n\
+                                     7MSB    ZB uN                          \n\
+                                     B  B   :B  Br                          \n\
+                                    qM .B   B7  B                           \n\
+                                    B. Ni  1B  M8                           \n\
+                                    B :BBZPN:  qBEj:                        \n\
+                                  rBO ,:.        ,iBMj                      \n\
+                                uBM;                ,BB.                    \n\
+                              .Oj,             .      iB,                   \n\
+                             iJ.        .,;v5qZq:      iB                   \n\
+                            Jr      :.  10j7:,.         B1                  \n\
+                           BN  .UNBB8:                  vZ                  \n\
+                          7B   ;Ui.                     :B                  \n\
+                          FS                            :M                  \n\
+                          Fu                            GB.                 \n\
+                          UE                           :B,BL                \n\
+                           B.                         rqB  B.               \n\
+                           rB                      .SBU:B. M:               \n\
+                            1BJ                .uGBBBM2E:  B:               \n\
+                             .q0YZ0.           .2:        UM.               \n\
+                               .0Br                FirrL8BL                 \n\
+                              Lu,  r               BNi;i:                   \n\
+                            YOi  8081              Y1                       \n\
+                           :B   8: .B              Uk                       \n\
+                           YM  :B  Y2              B.                       \n\
+                            Bu  iFPBB.            FP                        \n\
+                            .BG7    B:           UB1.                       \n\
+                              .rBBS.B            i.:BO;                     \n\
+                              .N7.XBB7FYNUEU0uNjjLi  :B7                    \n\
+                             .B:  ULi   ..,..   ..:B: .B                    \n\
+                             2B  B0  rYE    .vi   .B. .B                    \n\
+                             7B  .r72:,B    Bi8NYBq. .B:                    \n\
+                              UBv,ir7 .B    B      ,0B5                     \n\
+                                ,PB:  Br    B  1XUGkr                       \n\
+                                 2B  7B     uY 1P                           \n\
+                                .B: .BJ..:: 7B i0. ,..                      \n\
+                            .Li2iBBqBU,YiYr;LBFB2J:JJ7L;.                   \n\
+                             .... ,ii:.:i,i,::1U:.. , .                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                    .,     ,BBP                             \n\
+                                   NBB7   iB :B                             \n\
+                                  rB.iM   BL iE                             \n\
+                                  NP UL   B  B,                             \n\
+                                  B: B   iB :B                              \n\
+                                  B  BEE2Oj rBB5r                           \n\
+                               i5B0  r:       :;OB5                         \n\
+                             :BB7.                1B:                       \n\
+                            BB:                    iBJ                      \n\
+                          .BM                       .BF                     \n\
+                          Bv                          B,                    \n\
+                         OE                           XF                    \n\
+                        ,B            i:rLY20J        :B                    \n\
+                        :B   vM1XEj   5XLrr:..        UP                    \n\
+                        :B    .                       B:                    \n\
+                        iB                          .B2                     \n\
+                         BN                        7Bu                      \n\
+                          BN                   .,752.                       \n\
+                           OBU.                8BP      .17                 \n\
+                            ,UBB0:              .B     iBYB                 \n\
+                              OM,  :          77 BZ   ,B, B                 \n\
+                              Mi  BB.         ,B  7OUkB: BU                 \n\
+                              ,B  BvB          LB.      BU                  \n\
+                               7B .BB           iBBU7rGZ:                   \n\
+                                Zi BB   :rkFk1;   iBU                       \n\
+                               :q. B. XM0X7,::1B   UE                       \n\
+                               BL NS Bq        uZ  .B                       \n\
+                               .8EU SB       ,.Zj  P1                       \n\
+                                B: .BkB     :BBB  UB.                       \n\
+                                uM .5iZ     uOY  EB.                        \n\
+                                 8B  Uu     2v YBi                          \n\
+                                 ;8  B      :8 :G                           \n\
+                                 B: MX..,:,.,B  B:.                         \n\
+                             riY7B0EBv.Y:j:L.MOBj7:jYiv:                    \n\
+                             .., ,Lu::ii;ir7.;Nv:.i,: ..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                  .vY     BkS                               \n\
+                                 .B7B,   GB.B                               \n\
+                                 8P B:   B  B:                              \n\
+                                 B, B    B  B                               \n\
+                                 B:iB7S70B  B.                              \n\
+                              :XMB: ..:,:.  7MML                            \n\
+                            .8Fi               UBY                          \n\
+                           Yk,                   0B                         \n\
+                          jM                      GB                        \n\
+                         vB                        BL                       \n\
+                         B.                        :B                       \n\
+                        .B                          B                       \n\
+                        7B  ..,.,,   ,u7JYSkNi      B                       \n\
+                        .B  i0NE0Z.  .;Lii,:;,     Jk                       \n\
+                         kB                       7M                        \n\
+                          BB                    .Nj                         \n\
+                           ZBNr              ,2ZBS                          \n\
+                            .vMEZqUY5:   7Nr UB.iZ                          \n\
+                                .kB:ZB  BE .GqY  B.                         \n\
+                                  PE SBBv :B:    Z5                         \n\
+                                   B  B1 ,B      .B                         \n\
+                                   B. B. YS       BB                        \n\
+                                  YG  BF .B      5BB                        \n\
+                                :BM  q0B  B7:LLOkGF.                        \n\
+                               vBuvJ2. BB7MBBBUB.                           \n\
+                               Yq     BNE:   : uj                           \n\
+                                B :FBj7  i5U2G..B                           \n\
+                                Gj  B       uG  B                           \n\
+                                 B  B....,..iB  B:.                         \n\
+                              iJ:5BqB7:viL:7iFGEBJ,JJiv:                    \n\
+                              .,,.v7::ii;iiii;Yu::,,: ..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                       ,7i                                  \n\
+                                .,    LBJB1                                 \n\
+                               SBXB  rB  GY                                 \n\
+                              :B  B  B7 iB                                  \n\
+                              BL qE FB :B                                   \n\
+                             iB  BBkN  ZBkP7                                \n\
+                          :BMBr           iXBq                              \n\
+                         qB1                 MB.                            \n\
+                       iUY                    LB.                           \n\
+                      LB:        .:iY188B.     kB                           \n\
+                     vB. ..vUNN  :P57i...       B                           \n\
+                     Bj  OUF7:.                 Br  .::.:                   \n\
+                    UB                          vG .BXPrjZ                  \n\
+                    Bi                          B7 B.    BU                 \n\
+                    B                  XO8EB,  iB  B  B8FU.                 \n\
+                    B.                B:   ,B :B: vB .B                     \n\
+                    iB               iB  BJrBrX  iB. iB                     \n\
+                     1O              q0 7B:r8Bj;0B,  8i                     \n\
+                      7G,           rB  FU.r:  ,   :07                      \n\
+                       .JO2:   :v.iqB   B.  BML:rY55,                       \n\
+                         ,;BM  .YU2i  ,ML   :Biri;                          \n\
+                            OB.SL:. LY5.     B                              \n\
+                             B0 .FU5;.       Bi                             \n\
+                              Bi             LM                             \n\
+                              iB             YN                             \n\
+                             .7B             MB                             \n\
+                          .Xk7i  ..,.,..     .UB5                           \n\
+                         rN.  ,F5NNNGEO2vUqFY   SB;                         \n\
+                        .B  iBY:          . XBB  :Bi                        \n\
+                        7B  2B..BB1        :BBB.  Bu                        \n\
+                         Br  iYv::B.       B:.   kB.                        \n\
+                         ,B8r.    GB       B, .8ZS.                         \n\
+                           :F8Ni   B,      5X  BU                           \n\
+                               LB  SG      .B  ;B                           \n\
+                                BZ  B       B: .B                           \n\
+                                ,B: B7::.:: YB .B:.:.                       \n\
+                            iJi1:5BZB77vv7j:70BBMY:uYLiY                    \n\
+                             ..,. .ii:,ir,i.i:ii: .,, ..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                      .MBE                                  \n\
+                                ;i    Br B:                                 \n\
+                               7B5B  .B  B:                                 \n\
+                               B, B, iB  B:                                 \n\
+                               B  B. Y8 .B                                  \n\
+                               B  B  M7 MM                                  \n\
+                              :B  B1XL  NBMMj:                              \n\
+                           iBBOL           :2OB,                            \n\
+                          2Gi                 ;Bi                           \n\
+                        ;P:                    :B:                          \n\
+                       1B          LL5XNGO.     ;B                          \n\
+                      7B  rY1XBB   kr;,.         B2                         \n\
+                     .B.  UJi,                   2X  ;r27;.                 \n\
+                     50                          F1 2B:ii,B.                \n\
+                     B.                 :rii.    B  B  ..:B2                \n\
+                     B                 kBLrUBN  B5  B 7Bri:                 \n\
+                     Br               :B  ..LB MB  Br 1B                    \n\
+                     iB               U8 uBriUB1 .BU  Bi                    \n\
+                      1B7             B. Br,0JSUkM.  Fk                     \n\
+                       :MXi         iBk  B  .j.    iO7                      \n\
+                         :28B   JOSqM:  BO   BB510q;.                       \n\
+                            5B,.Y:    rO1    rq                             \n\
+                             LB7iZ0GNu7       B                             \n\
+                              OZ              B                             \n\
+                               B,             B                             \n\
+                               B:             B                             \n\
+                           LEBZk              BBr                           \n\
+                          MB7   UB0PEqFBZNNJr   8B:                         \n\
+                         BS  U82:      . ..iLS7  :B:                        \n\
+                         B  LB. EE1         18BB  GB                        \n\
+                         Bi  iqMZ,BU       jB,r  ,B:                        \n\
+                         iBE:     :B       YP .uNB7                         \n\
+                           JUBG    Bj      iB  BB                           \n\
+                               ;B  iB       B   B                           \n\
+                                BE  B       G5  B                           \n\
+                                .Br B7.:i:..vB .B:.:.                       \n\
+                            iJi5:SBGBU,Ur2iLLNBBMY:UYLiY                    \n\
+                               ,, .ii:,i,i;.i:;i:.,,, ..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                       iL                                   \n\
+                                      OEGB                                  \n\
+                                O0r  ,B  B                                  \n\
+                               ME:B  Yq  B                                  \n\
+                              :B  B  Or :B                                  \n\
+                              :B :E  B  Bi                                  \n\
+                              Z5 ZBZMi ;B;i:                                \n\
+                           .YBBi ,i;    .rvBMX                              \n\
+                          qB0,               kB7                            \n\
+                        .8Y                   ,B7                           \n\
+                       UO           .,riFv     ,B.                          \n\
+                      PB    .i7;  7O8NXrv:      0U                          \n\
+                     :B  i8BPuY:                iB                          \n\
+                     B:  .                       B  J0MPjB                  \n\
+                    .B                          :B :B    7B                 \n\
+                    1X                 LUkUk7   Bv S7 7kYq0                 \n\
+                    YB                qB,   Ni 5B  B, B7                    \n\
+                     B:               B. :UvUq5B  BO  B,                    \n\
+                     ;B.             .B  BL:GGM :MU  .B                     \n\
+                      UBr            Bj .B ,7  rv.  rG                      \n\
+                       :8Bv:    :  :BY  YB  UEv.:.1Xi                       \n\
+                         ivBB   E51F,  JB.  :B7v77,                         \n\
+                            MM v1.   iMj     N7                             \n\
+                             PB.,qqSLr.      7B                             \n\
+                              BU             ,B                             \n\
+                               B             :B                             \n\
+                              .B7            LB                             \n\
+                           UZL::   .          jMS                           \n\
+                         iBL. .:JUkPNXZMNPqFJ   5B:                         \n\
+                        .B  .NMr            v0B  7B:                        \n\
+                        iB  :B:.ZqM        :NBBL  0M                        \n\
+                         BL  .SZ:.Bu       B: .  ,Br                        \n\
+                         .BZY     .B       Xv :N1M:                         \n\
+                           :qM0:   BY      :B  B0                           \n\
+                               iB  iM       B  .B                           \n\
+                                Mq  B       0U :M                           \n\
+                                .Br Br.,i:..7B .B:.:.                       \n\
+                            iYiU:1B0Bu,u;U:vLXBBOL:jLviL                    \n\
+                               .. .i::,i,ii.:,i::.,,, ..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                       PNB.                                 \n\
+                                 i:   ;B rB                                 \n\
+                                BBZO  B. .B                                 \n\
+                               rO ,B  B  2q                                 \n\
+                               Gi rU r8  B.                                 \n\
+                               Bi Bui5i MB                                  \n\
+                             rFBi Y7r.  :FYMO8,                             \n\
+                          .PBF7              UBj                            \n\
+                         :qi                   BJ                           \n\
+                        2Y              .i      BU                          \n\
+                       Mq     ,i   Skkq8G0.     .B                          \n\
+                      8B  j0ZqPj   .,.           JP                         \n\
+                     :B   :.                     UU  rq0XEr                 \n\
+                     01                          B7 MX   ,B7                \n\
+                     B.                 :UJ1i   ,B  B  77jMr                \n\
+                     B                 Nk..:rG  BL :B 7B:                   \n\
+                     Br               iB  ,irB,BL  B: U1                    \n\
+                     .B:              Yq PB.Y8B: 7Bi  B.                    \n\
+                      iBX            :B, Br:L:r7LL   k;                     \n\
+                       .NP7         LBv  B   Pr.  i7Y:                      \n\
+                          rNB,  rNu51  :BL   BGL1X7,                        \n\
+                            LBi:vi,  .uNr    ;k                             \n\
+                             iBi,1NP57,       B                             \n\
+                              vM              B                             \n\
+                               B,             B                             \n\
+                               B:            ,B                             \n\
+                           7OSY7              kMS,                          \n\
+                          Bq:  :JkJZ2G2GUSP2r   LB1                         \n\
+                         BY  0EJ .         .i0B  .Br                        \n\
+                         B  :B. MMX         BGB5  XM                        \n\
+                         B2  :1LF.BJ       YB.,  .B:                        \n\
+                         .BNL     :B       v5 ,UYBr                         \n\
+                           :YSP:.  BL      iB  OB                           \n\
+                               iB  iM       B   B                           \n\
+                                OP  B       qU  B                           \n\
+                                .Br Br.:::..7B  B,.:.                       \n\
+                            :YiU:2BPBj.j;j:77kBBG7:YLLiL                    \n\
+                              ... .i::,:,ii.:,i::.,,. .                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                         2kM2                               \n\
+                                 70L    8B 2E                               \n\
+                                uB,B   kB  Bi                               \n\
+                               ,B  B  .B  rB                                \n\
+                               B: 0:  Br .B                                 \n\
+                              .B 7BMPOB. BB.                                \n\
+                           YBBGY ..      .70ML                              \n\
+                         XBB:                U2,                            \n\
+                        BM.                   ,O.                           \n\
+                      ,Br                       B.                          \n\
+                     .B7               .:       PG                          \n\
+                     BS   ...   7EYPNZZEZi       B.                         \n\
+                     B  :NNXP:  :i..             Bi                         \n\
+                    iB                           B                          \n\
+                    7B                          0M                          \n\
+                    .B                         LB                           \n\
+                     PB                       uB                            \n\
+                      BX                    v0BB                            \n\
+                       BB:                  : 1Bk     .                     \n\
+                        iBG17::,.          :  B:B.  YBSB                    \n\
+                           ,i0BYN  5qY     B  FF8M:u7 .B                    \n\
+                             NY,GPBM,B     BL  8EN:  ,0                     \n\
+                             B:r0.B  B     .Bj     2BY                      \n\
+                             S; :r  ZN0r     YPuBBSY.                       \n\
+                             :B:  .BP.      1  rBB.                         \n\
+                             BLY7BBBqOqkYi:BZ  B8r                          \n\
+                            iB   B     i;7JB: .B                            \n\
+                            :B  .B,,       B  iB:                           \n\
+                             LB  YBZk      B   ,82                          \n\
+                              7B0   B      qN,7 5J                          \n\
+                                B.  B       EXi.B.                          \n\
+                                0j  B       Lv  B                           \n\
+                                iB  B.,..:..LB  B,.                         \n\
+                              iY:BP1B7:viL::7BXBF7:JYi7:                    \n\
+                              .,.,2X::iii;L.r:NU:.i,, ..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                  i:     ,i.                                \n\
+                                .BPMi   YNLBi                               \n\
+                                BS kJ  MB  Bi                               \n\
+                               ;B  B  iB  2B                                \n\
+                               Bj.BB,iB, :B                                 \n\
+                           .UFMBkY77Lj7  BMi                                \n\
+                         ,OMF,.          .:uMF                              \n\
+                        0B7                  JBL                            \n\
+                       BO                     .BJ                           \n\
+                      BX                       .B.                          \n\
+                     Eq                         US                          \n\
+                    .B         ...::i7:          B                          \n\
+                    iB  ZB8u  :uMS5UUUv         ,B                          \n\
+                    ;B                          ZS                          \n\
+                     Bi                        :B.                          \n\
+                     iBY                      UB                            \n\
+                      ,8Bi             LB.   YMGE.                          \n\
+                        7MMGP7rri:.:i1MM, ..    7E:                         \n\
+                           ,;777BB7BNBr  7L       2Y                        \n\
+                                 B ;Bj  0v         B.                       \n\
+                                 uL B  Bi          LBM:                     \n\
+                                 iP;2 rP.kjE5      BBB.                     \n\
+                                 Frjr LBZi        NB7:                      \n\
+                                BL Sj ,M  :GMBEYUX0                         \n\
+                              .BBLk5MiGB  YSBBB.                            \n\
+                               B    ,BEFBi    :B                            \n\
+                               UU  ML,  :FU11k.5F                           \n\
+                               ,B  B        2M .O                           \n\
+                                B, B7 :..,. :B. B:.                         \n\
+                              .7YB7BLriv:L::7LGBS7:vJi,                     \n\
+                                .:vr.:iiL,Li:rv7:.i., .                     \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                                                            \n\
+                                   .8U,   rGPBJ                             \n\
+                                  Uq;BY  GM vB.                             \n\
+                                 BB LB ,B7 X8                               \n\
+                                FB UB :Bi BN                                \n\
+                              LUB .B87B: :Bqr                               \n\
+                            JBB;           ,2BM.                            \n\
+                          ,B8                 8BZ                           \n\
+                         Lki                    BM                          \n\
+                        EJ                       Bu                         \n\
+                       EM        . ,::7L2F       :B                         \n\
+                      :B  rL5k:  UMX1FYv7r        Bi                        \n\
+                      UG  UYi:                    YE                        \n\
+                      Bi                          uP                        \n\
+                      B:                          BL                        \n\
+                      jk                         NB                         \n\
+                .BuY2BkB                       .BB                          \n\
+                YBUi .BMB.                    GBj                           \n\
+                 ..UM :M:B5i                  r7.jB:                        \n\
+                    B  B  :1BBE5N             :   :B                        \n\
+                    B  Bk..jZ:,r             :ZBOL XU                       \n\
+                    BX  Uir.  FBq              E7B7 B                       \n\
+                     Bk:    rOU YB             NiiB NB:::YU                 \n\
+                      7kNXN8r    BL            uu MJ iYYJ,UB                \n\
+                               ..M0            UU  2BU   :PU                \n\
+                            iPB827.           JBB.   YSUFLr                 \n\
+                          rBB:     ..,.,.,..    YBU                         \n\
+                         YB:  iN50PqG08EG0q50B:   B                         \n\
+                         B   Mj:             .B,  B                         \n\
+                         B  XB  BGq      .0BS:B  :B                         \n\
+                         BG  rU7B.Eu     :B F.  0Bi                         \n\
+                          GBNi:,   B      B  LBBj                           \n\
+                            ,JL8M  B.     Bi  ZO                            \n\
+                                B  GL     7B   B:                           \n\
+                                B: J2      B2  L0                           \n\
+                                YB YM:::,,,:Br  B:.:,.                      \n\
+                            .Yi2rBBBq;i2iY:rrB5LB2,Uu7L;.                   \n\
+                             . .. ,:::,i;,i.::kq7:. , ..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                         ,k11                               \n\
+                                  NBB.  :BrUB                               \n\
+                                 7B B:  BL 7G                               \n\
+                                 B  B. XM  B,                               \n\
+                                 B  B  B. rB                                \n\
+                                7B rB,JB  BB.                               \n\
+                              :EB7 :U2i:  :UBBX.                            \n\
+                            :qXr              XBM                           \n\
+                           Sk.                  MB.                         \n\
+                         iB:                     PB                         \n\
+                        uB               :.       MB                        \n\
+                       :B     ,   7PjkMBB05        B.                       \n\
+                       Zq :MBMP   iY,,             01                       \n\
+                       B   .                       rB                       \n\
+                       B                           Bj                       \n\
+                       B.                         uB                        \n\
+                  rUu7i2M                        YB,                        \n\
+                 BBr7:BMBY                     iBO                          \n\
+                 Lr7F  B.BO.                  :BBkL:                        \n\
+                    US B. iX0E77;r                .BE                       \n\
+                    SU FM  :BBr8;,            rBUY  B.                      \n\
+                    LB  GZEF   BN              jBPB 8j                      \n\
+                     BM.     7ZP:B,             B B ,B   .r                 \n\
+                      vMZqNPXi   OB             B iO :PvOUFB,               \n\
+                         .       vB             B  PBv.. ..B,               \n\
+                             :kMMOk           JBB   ,US8F1U,                \n\
+                           FBBi        ...     iSBi                         \n\
+                          Bk   Y1ZXUBZ8Z8ZNuBO:  :B.                        \n\
+                         BX  UBr             .Br  Bi                        \n\
+                         B: rB  7MZ       78U Bi  B:                        \n\
+                         MB  :72BvBN     .B,Li  7B8                         \n\
+                          ZBB::i   B      B  7SBB:                          \n\
+                            iFLJB  B.     GU :2B                            \n\
+                                B  8L     iB   B.                           \n\
+                                B: J1      qZ  rB                           \n\
+                                JB YB:::,, 7Br  B::.i                       \n\
+                            .Yi5rBBB0ri1iY:rLBFrB5iY7UiJ,                   \n\
+                             . .. ,:::,i;,i.::PZY: i.,..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                         25G                                \n\
+                                 .BBB   BE,BY                               \n\
+                                 B5 B  BB  B.                               \n\
+                                7B  B iB  Pq                                \n\
+                                B, B  B: rB                                 \n\
+                               uB iB0PB  BBY:                               \n\
+                             7NO   .      .YBBr                             \n\
+                           ikr.              iBBY                           \n\
+                         rMi                   YBj                          \n\
+                        YM.                     ,B:                         \n\
+                       UB             .iiL       LB                         \n\
+                      .B  ..ir.  2MBB8qUFY        Br                        \n\
+                      jB ,X0kS:  .                jG                        \n\
+                      Bi                          5q                        \n\
+                      B.                          kv                        \n\
+                      Nr                         iB                         \n\
+                .jU0FkFB                        UZ                          \n\
+                SBX7 iBBB.                    YBG                           \n\
+                 :.FU rMUBU:                 .YPLFM.                        \n\
+                    B  B  7UMBXkZ             .   2B                        \n\
+                    B  BJ  2BL::             :BBZi BL                       \n\
+                    B2  X5k7  2BJ              BYM. B                       \n\
+                    :BP     rMG:JB             Ni,B FB...rL                 \n\
+                      uMNXNOr    Bi            jU Bu :uUU;kB                \n\
+                                 qO            ju  MB:   .MB                \n\
+                            :1BBN0:           MBB   ,FMFNJi                 \n\
+                          rBBr       .....     .SB:                         \n\
+                         LBi  r0G1PqGEGZG0PYM0   :B                         \n\
+                         B. :G2.             .B,  B                         \n\
+                         B  BE  GBX       YM8:B  :B                         \n\
+                         BO  72UMiB7     :B Fi  EBi                         \n\
+                          ZBM,,:   B      B  LGB0.                          \n\
+                            iFLGM  B.     Bi :0N                            \n\
+                                B  OY     vB   B.                           \n\
+                                B. J2      B2  ;M                           \n\
+                                EB YM:::.:::Br  B:.:,.                      \n\
+                            .YiU:BBB0ri2iY:r7BFSBU,UjvYr.                   \n\
+                             ... ,,:::,ir,i.::X0i:, : ..                    \n\
+                                                                            \n\
+    " + "=====\n" + 
+    "                                                                        \n\
+                                                                            \n\
+                                                                            \n\
+                                          :7:                               \n\
+                                   MBr   BqLB                               \n\
+                                 .BukM  BM .B                               \n\
+                                 0B X7 UB  BL                               \n\
+                                .B  B  B: XB                                \n\
+                                Bi BBr8B ,B2,                               \n\
+                             .Y0E  iii:   ,rBBJ                             \n\
+                            UN7              .ZBF                           \n\
+                          ;G;                  ,BB                          \n\
+                         Nq                      BB                         \n\
+                        OU             ,.i.       Bi                        \n\
+                       UB   .,,  :5X8BBM527       YB                        \n\
+                       B  JGP0Y  .i:               B                        \n\
+                      :B                           B                        \n\
+                      iB                           B                        \n\
+                      .B                          YL                        \n\
+                 :F52FrBL                       .E1                         \n\
+                iBBi:,BPB:                    ,qBr                          \n\
+                 7i,M  B:Mq:                  7BZ1u7                        \n\
+                    B  B  vS0B1L5i                .Br                       \n\
+                    B: G8  .MS,1.             ,BBS iB                       \n\
+                    LB  UO0:   BO              YMZ: B,                      \n\
+                     BB:    ,F0iLB             iN B vB   :Y.                \n\
+                      rMBPPXki   0q            :B NX :N21FLB,               \n\
+                         .       iB            :B  Lv:,,  :B,               \n\
+                             YB8qqL           :GB.   712P15                 \n\
+                           GBN.      .....      vB7                         \n\
+                          Bk   uEUkMGNZ0ZNPJMZ:  :B                         \n\
+                         B7  EGj             .Bv  B;                        \n\
+                         B  YM  7B0       rE5:O. ,B.                        \n\
+                         kB  .7UB7Oq      B.15  7Bi                         \n\
+                          EBB::i   B      B  YGBq,                          \n\
+                            iFL08  B.     07 :qO                            \n\
+                                B  GL     7B   B.                           \n\
+                                B: JU      BU  ;B                           \n\
+                                YB LM:::.:::Br  B:,.:                       \n\
+                            .YiUrBBBq;iUiL:r7B2rB2iLruiJ.                   \n\
+                              ... ,:::,i;,i.::k0L: i.,..                    \n\
+                                                                            \n\
+    " + "=====\n"
+
 // can also access the animations as an associative array / hash map,
 // such as ANIMATIONS["Bike"] or ANIMATIONS["Dive"]
 var ANIMATIONS = [];
@@ -753,3 +3292,4 @@ ANIMATIONS["Juggler"] = juggler;
 ANIMATIONS["Bike"] = bike;
 ANIMATIONS["Dive"] = dive;
 ANIMATIONS["Custom"] = custom;
+ANIMATIONS["Rabit"] = rabit;
