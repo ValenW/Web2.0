@@ -4,7 +4,7 @@
  * @Email   : ValenW@qq.com
  * @Date    : 2014-12-13 13:03:50
  * @Last Modified by:   ValenW
- * @Last Modified time: 2014-12-20 14:11:02
+ * @Last Modified time: 2014-12-24 22:43:34
  */
 
 window.onload = function() {
@@ -27,7 +27,11 @@ function shuffle() {
     var oldR = 3, t = false;
     var rList = [];
     rList[0] = wy*4 + wx;
-    for (var i = 1; i <= 100; i++) {
+    if (document.getElementById("windiv"))
+        document.getElementById("overall").removeChild(document.getElementById("windiv"));
+    var diff = prompt('Please enter the random scrambling step (recommended more than 100, 100 by default):', 100);
+    if (isNaN(parseInt(diff)) || parseInt(diff) < 0) diff = 100;
+    for (var i = 1; i <= diff; i++) {
         var r = parseInt(Math.random()*2);
         if (t) r += 2;
         var x = rList[i-1]%4, y = parseInt(rList[i-1]/4);
@@ -42,7 +46,7 @@ function shuffle() {
         rList[i] = y*4 + x;
         t = !t;
     }
-    for (var i = 1; i <= 100; i++) moveP(rList[i]);
+    for (var i = 1; i <= diff; i++) moveP(rList[i]);
     update();
 }
 
@@ -76,6 +80,12 @@ function pieClick() {
 }
 
 function win() {
-    alert("You Win!");
     for (i = 0; i < 15; i++) pieces[i].className = "puzzlepiece";
+    var windiv = document.createElement("div");
+    windiv.innerHTML = "You Win!<br>" +
+                       "But you are not the BEST!<br>" +
+                       "Becouse...<br>" +
+                       "<img src='Pml.jpg' width='288' height='480'>";
+    windiv.id = "windiv";
+    document.getElementById("overall").insertBefore(windiv, document.getElementById("puzzlearea"));
 }
