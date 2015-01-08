@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <title>预言一下</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0">
+    <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../static/css/bootstrap-datetimepicker.min.css"><!-- 
+    <link rel="stylesheet" href="../static/css/index.css"> -->
+    <link rel="stylesheet" href="../static/css/redi.css">
+    <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="../static/js/moment.js"></script>
+    <script src="../static/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="../static/js/redi.js"></script>
+    <link rel="shortcut icon" href="../static/images/icon.png">
+  </head>
+  <body>
+    <div class="container">
+      <div class="jumbotron ask col-sm-12">
+        <form class="form-horizontal" role="form" method="post">
+        <h4 class="modal-title" id="myModalLabel">预言</h4>
+          <div class="form-group">
+            <label for="title" class="col-sm-2 control-label">姓名</label>
+            <div class="col-sm-4">
+              <input type="text" placeholder="章鱼保罗" class="input-xlarge" id="rname" name="name">
+              <p class="help-block">预言者的名字</p>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="time" class="col-sm-2 control-label">时间</label>
+            <div class="col-sm-4">
+              <div class="container">
+                <div class="row">
+                  <div class="form-group">
+                      <div class='input-group date' id='datetimepicker2'>
+                          <input type='text' class="form-control" id='datetimepicker6'>
+                      </div>
+                  </div>
+                  <script type="text/javascript">
+                      $(function () {
+                          $('#datetimepicker6').datetimepicker({
+                              language: 'zw'
+                          });
+                      });
+                  </script>
+                </div>
+              </div>
+            <p class="help-block">预言事件发生的时间</p>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="content" class="col-sm-2 control-label">你的预言</label>
+            <div class="col-sm-6">
+              <textarea cols="50" rows="15" id="content" name="content"></textarea>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col-sm-offset-3 col-sm-4">
+              <label class="control-label">向世界公布你的预言！</label>
+              <button type="submit" class="btn btn-primary">发表</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,74 @@
+@charset "UTF-8";
+/**
+ * 
+ * @Author  : ValenW
+ * @Link    : https://github.com/ValenW
+ * @Email   : ValenW@qq.com
+ * @Date    : 2015-01-06 17:33:11
+ * @Last Modified by:   ValenW
+ * @Last Modified time: 2015-01-07 11:45:52
+ */
+
+body {
+    font-family: "微软雅黑", Tahoma, sans-serif;
+}
+
+.redi {
+    margin: 30px 20px 30px;
+    padding: 30px 10px 30px;
+}
+
+.redi:hover {
+    cursor:pointer;
+    background:#FC9; 
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.redititle {
+    /*text-align: center;*/
+    font-weight: bold;
+    font-size: 250%;
+}
+
+.redier {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.up, .down {
+    min-width: 3.5em;
+    height: 30px;
+}
+
+.voted {
+    height: 50px;
+}
+
+.intra {
+    width: 70%;
+    margin: 50px auto 30px;
+    font-size: 300%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.intra:hover {
+    background: orange;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+
+.btn-block {
+    height: 50px;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.btn-block:hover {
+    background-color: orange;
+    cursor:pointer;
+}
