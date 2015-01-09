@@ -5,11 +5,9 @@
   <title>预言帝</title>
   <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0">
   <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
-  <link rel="stylesheet" href="../static/css/bootstrap-datetimepicker.min.css">
-  <!-- <link rel="stylesheet" href="../static/css/index.css"> -->
+  <link rel="stylesheet" href="../static/css/index.css">
   <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
   <script src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-  <script src="../static/js/bootstrap-datetimepicker.min.js"></script>
   <script src="../static/js/index.js"></script>
   <link rel="shortcut icon" href="../static/images/icon.png">
 </head>
@@ -34,9 +32,6 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="/">首页</a></li>
             <li><a href="/redi">发表预言</a></li>
-<!--             <li>
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
-            </li> -->
           </ul>
           <form class="navbar-form navbar-left" role="search">
             <div class="form-group">
@@ -63,7 +58,36 @@
     </nav>
   </header>
 
-<!-- Modal -->
+  <div class="container">
+    <div class="row">
+      <p class="intra" id="head">
+        嘛~没事来玩玩，说不定你真的是预言帝呢？<br>
+        <div class="span12 visible-xs-block">
+          <button class="btn btn-large btn-block btn-default" type="button">来一个！</button>
+        </div>
+      </p>
+    </div>
+  </div>
+
+  <div class="redis container">
+  {% for r in redi %}
+    <div class="redi container">
+      <div class="row">
+        <div class="col btn-group-vertical">
+          <button type="button" class="up btn{{ r[8] }}" id="r{{r[0]}}">{{ r[4] }}<br>神预言</button>
+          <button type="button" class="down btn{{ r[9] }}" id="r-{{r[0]}}">{{ r[5] }}<br>什么鬼</button>
+        </div>
+        <div class="col-md-2 col-xs-8">
+          <span class="redier">{{ r[1] }}</span> 预言说<br><span class="time">
+          {{ r[7] }}天后<br>({{ r[2] }})</span>
+        </div>
+        <p class="redititle col-md-8 col-xs-12">{{ r[3] }}</p>
+      </div>
+    </div>
+  {% end %}
+  </div>
+
+<!-- login Modal -->
 <div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -102,7 +126,7 @@
                   <strong>注册成功!</strong>
                 </div>
                 <div class="signup alert alert-warning alert-dismissible" role="alert">
-                  <strong>用户名或者密码错误! </strong> 用户名和密码必须由字母或者数字组成，且都须大于5位小于16位
+                  <strong>用户名或者密码错误! </strong> 用户名和密码必须由字母或者数字组成，且都须大于2位小于16位
                 </div>
                 <div class="signup alert alert-info" role="alert"><strong>用户名已被注册 </strong> 换个名字吧~</div>
                 <div class="signup alert alert-danger alert-dismissible" role="alert">
@@ -120,7 +144,8 @@
     </div>
   </div>
 </div>
-<!-- Modal -->
+
+<!-- logout Modal -->
 <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -139,33 +164,5 @@
   </div><!-- /.modal-dialog -->
 </div>
 
-  <div class="container" id="head">
-    <div class="row">
-      <p class="intra">
-        嘛~没事来玩玩，说不定你真的是预言帝呢？<br>
-        <div class="span12 visible-xs-block">
-          <button class="btn btn-large btn-block btn-default" type="button">来一个！</button>
-        </div>
-      </p>
-    </div>
-  </div>
-
-  <div class="redis container">
-  {% for r in redi %}
-    <div class="redi container">
-      <div class="row">
-        <div class="col btn-group-vertical">
-          <button type="button" class="up btn{{ r[7] }}" id="r{{r[0]}}">{{ r[4] }}<br>神预言</button>
-          <button type="button" class="down btn{{ r[8] }}" id="r-{{r[0]}}">{{ r[5] }}<br>什么鬼</button>
-        </div>
-        <div class="col-md-2 col-xs-8">
-          <span class="redier">{{ r[1] }}</span> 预言说<br><span class="time">
-          {{ r[6] }}天后<br>({{ r[2] }})</span>
-        </div>
-        <p class="redititle col-md-8 col-xs-12">{{ r[3] }}</p>
-      </div>
-    </div>
-  {% end %}
-  </div>
 </body>
 </html>

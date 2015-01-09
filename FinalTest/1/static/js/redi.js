@@ -5,8 +5,25 @@
  * @Email   : ValenW@qq.com
  * @Date    : 2015-01-08 12:49:27
  * @Last Modified by:   ValenW
- * @Last Modified time: 2015-01-08 15:04:52
+ * @Last Modified time: 2015-01-09 21:38:38
  */
 $(document).ready(function() {
-    // $(".form_datetime").datetimepicker({format: 'yyyy-mm-dd hh:ii'});
+    $(".alert-warning").each(function() {$(this).hide();});
+    $('#datetimepicker6').datetimepicker({ language: 'zh' });
+    $("#submit").click(function() {
+        $(".alert-warning").each(function() {$(this).hide();});
+        if      ($("#name").val() == '')                $(".nameAlert").show();
+        else if ($("#datetimepicker6").val() == '')     $(".timeAlert").show();
+        else if ($("#content").val() == '')             $(".contentAlert").show();
+        else {
+            $.ajax({
+                type: "POST",
+                url: "/redi",
+                data: "name=" + $("#name").val() + "&time=" + $("#datetimepicker6").val() + "&content=" + $("#content").val(),
+                success: function(msg) {
+                    if (msg == '1') { window.location.href="/" }
+                }
+            });
+        }
+    });
 });

@@ -5,8 +5,7 @@
     <title>预言一下</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0">
     <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../static/css/bootstrap-datetimepicker.min.css"><!-- 
-    <link rel="stylesheet" href="../static/css/index.css"> -->
+    <link rel="stylesheet" href="../static/css/bootstrap-datetimepicker.min.css">
     <link rel="stylesheet" href="../static/css/redi.css">
     <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
     <script src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
@@ -18,12 +17,23 @@
   <body>
     <div class="container">
       <div class="jumbotron ask col-sm-12">
-        <form class="form-horizontal" role="form" method="post">
+        <form class="form-horizontal" role="form">
         <h4 class="modal-title" id="myModalLabel">预言</h4>
           <div class="form-group">
-            <label for="title" class="col-sm-2 control-label">姓名</label>
+            <div class="nameAlert alert alert-warning alert-dismissible" role="alert">
+              <strong>忘记写名字了哦</strong>
+            </div>
+            <div class="timeAlert alert alert-warning alert-dismissible" role="alert">
+              <strong>时间都木有</strong>
+            </div>
+            <div class="contentAlert alert alert-warning alert-dismissible" role="alert">
+              <strong>你的预言呢</strong>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="name" class="col-sm-2 control-label">姓名</label>
             <div class="col-sm-4">
-              <input type="text" placeholder="章鱼保罗" class="input-xlarge" id="rname" name="name">
+              <input type="text" placeholder="章鱼保罗" class="input-xlarge" id="name" name="name">
               <p class="help-block">预言者的名字</p>
             </div>
           </div>
@@ -32,18 +42,9 @@
             <div class="col-sm-4">
               <div class="container">
                 <div class="row">
-                  <div class="form-group">
-                      <div class='input-group date' id='datetimepicker2'>
-                          <input type='text' class="form-control" id='datetimepicker6'>
-                      </div>
+                  <div class='input-group date' id='datetimepicker2'>
+                    <input type='text' class="form-control" readonly id='datetimepicker6' name="time">
                   </div>
-                  <script type="text/javascript">
-                      $(function () {
-                          $('#datetimepicker6').datetimepicker({
-                              language: 'zw'
-                          });
-                      });
-                  </script>
                 </div>
               </div>
             <p class="help-block">预言事件发生的时间</p>
@@ -55,13 +56,11 @@
               <textarea cols="50" rows="15" id="content" name="content"></textarea>
             </div>
           </div>
-          <div class="form-group">
-            <div class="col-sm-offset-3 col-sm-4">
-              <label class="control-label">向世界公布你的预言！</label>
-              <button type="submit" class="btn btn-primary">发表</button>
-            </div>
-          </div>
         </form>
+        <div class="col-sm-offset-3 col-sm-4">
+          <label class="control-label">向世界公布你的预言！</label>
+          <button type="submit" class="btn btn-primary" id="submit">发表</button>
+        </div>
       </div>
     </div>
   </body>

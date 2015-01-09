@@ -5,7 +5,7 @@
  * @Email   : ValenW@qq.com
  * @Date    : 2015-01-06 20:04:37
  * @Last Modified by:   ValenW
- * @Last Modified time: 2015-01-08 12:42:38
+ * @Last Modified time: 2015-01-09 21:24:51
  */
 $(document).ready(function() {
     $("#bs-example-navbar-collapse-1 li").click(function (e) {
@@ -35,7 +35,7 @@ $(document).ready(function() {
         });
     });
     $("#signupBtn").click(function() {
-        var re = /^\w{6,15}$/
+        var re = /^\w{2,15}$/
         if (re.test($("#name").val()) && re.test($("#password").val())) {
             $.ajax({
                 type: "POST",
