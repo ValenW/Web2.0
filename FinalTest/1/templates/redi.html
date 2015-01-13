@@ -15,6 +15,63 @@
     <link rel="shortcut icon" href="../static/images/icon.png">
   </head>
   <body>
+  <header>
+    <nav class="navbar navbar-default" role="navigation">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="http://valenw.sinaapp.com">预言帝</a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="toMain active"><a href="http://valenw.sinaapp.com">首页</a></li>
+            <li class="toRedi"><a href="">发表预言</a></li>
+            <li class="toHot"><a href="http://valenw.sinaapp.com?key=hot">最热门</a></li>
+            <li class="dropdown visible-xs">
+              <a href="" class="dropdown-toggle" data-toggle="dropdown"> <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li class="toUp"><a href="http://valenw.sinaapp.com?key=up">  最神   预言 </a></li>
+                <li class="toDown"><a href="http://valenw.sinaapp.com?key=down">最神经 预言 </a></li>
+                <li class="divider"></li>
+                <li><a href="#">Bug? 联系攻城狮: 1509563478@qq.com</a></li>
+              </ul>
+            </li>
+            <li class="dropdown hidden-xs">
+              <a href="" class="dropdown-toggle" data-toggle="dropdown"> <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li class="toUp"><a href="http://valenw.sinaapp.com?key=up">  最神   预言 </a></li>
+                <li class="toDown"><a href="http://valenw.sinaapp.com?key=down">最神经 预言 </a></li>
+                <li class="divider"></li>
+                <li><a href="#">Bug? 联系攻城狮: 1509563478@qq.com</a></li>
+              </ul>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            {% if userName == 'None' %}
+            <li>
+              <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#loginModal">
+                登陆  注册
+              </button></li>
+            {% else %}
+            <li><a href="#">{{ userName }}</a></li>
+            <li>
+              <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#logoutModal">
+                退出
+              </button></li>
+            {% end %}
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+  </header>
+
     <div class="container">
       <div class="jumbotron ask col-sm-12">
         <form class="form-horizontal" role="form">
@@ -63,5 +120,27 @@
         </div>
       </div>
     </div>
+  <footer>
+  <div class="limit">valenw.sinaapp.com © 2015 ValenW <br>Contact: 1509563478@qq.com</div>
+  </footer>
+
+<!-- logout Modal -->
+<div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title">退出</h4>
+      </div>
+      <div class="modal-body">
+        <p>确认退出吗？</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+        <button type="button" class="btn btn-primary" id="logoutBtn">退出</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div>
   </body>
 </html>

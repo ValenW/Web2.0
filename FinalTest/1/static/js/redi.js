@@ -5,7 +5,7 @@
  * @Email   : ValenW@qq.com
  * @Date    : 2015-01-08 12:49:27
  * @Last Modified by:   ValenW
- * @Last Modified time: 2015-01-09 21:38:38
+ * @Last Modified time: 2015-01-11 09:45:20
  */
 $(document).ready(function() {
     $(".alert-warning").each(function() {$(this).hide();});
@@ -25,5 +25,14 @@ $(document).ready(function() {
                 }
             });
         }
+    });
+    $("#logoutBtn").click(function() {
+        $.ajax({
+            type: "GET",
+            url: "/logout",
+            success: function() {
+                window.location.href="/"
+            }
+        })
     });
 });

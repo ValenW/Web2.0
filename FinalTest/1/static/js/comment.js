@@ -3,9 +3,9 @@
  * @Author  : ValenW
  * @Link    : https://github.com/ValenW
  * @Email   : ValenW@qq.com
- * @Date    : 2015-01-06 20:04:37
+ * @Date    : 2015-01-12 19:18:30
  * @Last Modified by:   ValenW
- * @Last Modified time: 2015-01-13 09:44:33
+ * @Last Modified time: 2015-01-13 09:26:43
  */
 $(document).ready(function() {
     $("#bs-example-navbar-collapse-1 li").click(function (e) {
@@ -14,10 +14,10 @@ $(document).ready(function() {
     });
     $("#alert div").hide();
     $(".toRedi").click(redi);
-    $(".toHot").click(function() {window.location.href="?key=hot"});
-    $(".toUp").click(function() {window.location.href="?key=up"});
-    $(".toDown").click(function() {window.location.href="?key=down"});
-    $(".toMain").click(function() {window.location.href="/"});
+    $(".toHot").click(function() {location.href="http://valenw.sinaapp.com?key=hot"});
+    $(".toUp").click(function() {location.href="http://valenw.sinaapp.com?key=up"});
+    $(".toDown").click(function() {location.href="http://valenw.sinaapp.com?key=down"});
+    $(".toMain").click(function() {location.href="http://valenw.sinaapp.com"});
     $("#loginBtn").click(function() {
         $.ajax({
             type: "POST",
@@ -27,7 +27,7 @@ $(document).ready(function() {
                 if (msg == '1') {
                     $("#alert div").hide();
                     $("#alert div.login.alert-success").show();
-                    window.location.href="/"
+                    location.reload();
                 } else if (msg == '-1') {
                     $("#alert div").hide();
                     $("#alert div.login.alert-danger").show();
@@ -49,7 +49,7 @@ $(document).ready(function() {
                     if (msg == '1') {
                         $("#alert div").hide();
                         $("#alert div.signup.alert-success").show();
-                        window.location.href="/"
+                        location.reload();
                     } else if (msg == '-1') {
                         $("#alert div").hide();
                         $("#alert div.signup.alert-danger").show();
@@ -69,20 +69,36 @@ $(document).ready(function() {
             type: "GET",
             url: "/logout",
             success: function() {
-                window.location.href="/"
+                location.reload();
             }
         })
     });
     $(".redis").on('click', 'button', vote);
-    $(".redis").on('click', '.redi', coms);
-    $("#load").click(function() {
-        tload()
-        $("#load").text("正在加载...")
-        $(window).on('scroll', tload)
+    $('#cmt').keydown(function(event) {
+        if(event.which == 13) {
+            var com = $(this).val()
+            if (com.length <= 0) $(this).attr("placeholder", "你还什么都没说呦~")
+            else if ($('button[data-target="#logoutModal"]')[0]) {
+                $.ajax({
+                    type: "POST",
+                    url: location.href,
+                    data: "comment=" + com,
+                    success: function(msg) {
+                        if (msg == "1") {
+                            location.reload();
+                        }
+                    }
+                });
+            } else {
+                $("#alert div").hide();
+                $("#alert div.login.alert-info").show();
+                $("#loginModal").modal()
+            }
+        }
     });
 });
 
-function vote(e) {
+function vote() {
     if ($('button[data-target="#logoutModal"]')[0]) {
         var rid = parseInt($(this).attr("id").substr(1))
         if ($(this).hasClass('btn-info')) {
@@ -137,76 +153,15 @@ function vote(e) {
         $("#alert div.login.alert-info").show();
         $("#loginModal").modal()
     }
-    var e = e ? e : window.event;
-    if (window.event) {
-        e.cancelBubble = true;
-        e.stopPropagation();
-    } else {
-        e.stopPropagation();
-    }
-}
-
-function tload() {
-    if ($(document).height() - $(window).height() - $(document).scrollTop() <= 20) {
-        var stype = window.location.search.split('=')
-        var formId = ""
-        if (stype == '') {
-            stype = "id"
-            fromId = $(".redi:last-child .up").attr("id").substr(1)
-        } else {
-            stype = stype[1]
-            var upn = parseInt($(".redi:last-child .up").html().split('<br>')[0])
-            var don = parseInt($(".redi:last-child .down").html().split('<br>')[0])
-            if (stype == 'hot') fromId = upn + don;
-            else if (stype == 'up') fromId = upn;
-            else fromId = don;
-        }
-        $.ajax({
-            url: '/load/' + stype + '/' + fromId,
-            dataType: 'json',
-            type: 'GET'
-        })
-        .done(function(msg) {
-            var l = msg.length
-            for (var i = 0; i < l; i++) {
-                var add = 
-                "<div class=\"redi container\">\
-                  <div class=\"row\">\
-                    <div class=\"col btn-group-vertical\">\
-                      <button type=\"button\" class=\"up btn" + msg[i][8] + "\" id=\"r" + msg[i][0] + "\">" + msg[i][4] + "<br>神预言</button>\
-                      <button type=\"button\" class=\"down btn" + msg[i][9] + "\" id=\"r-" + msg[i][0] + "\">" + msg[i][5] + "<br>什么鬼</button>\
-                    </div>\
-                    <div class=\"col-md-2 col-xs-8\">\
-                      <span class=\"redier\">" + msg[i][1] + "</span> 预言说<br><span class=\"time\">" + msg[i][7] + "天后<br>(" + msg[i][2] + ")</span>\
-                    </div>\
-                    <p class=\"redititle col-md-8 col-xs-12\">" + msg[i][3] + "</p>\
-                  </div>\
-                </div>"
-                $(".redis").append($(add))
-            }
-            if (l == 0) {
-                $("#load").addClass('loadend')
-                $("#load").html("(*/ω＼*) 矮油, 人家被你看光了 <br>快点这里去发预言补偿人家! (˘•ω•˘)")
-                $(window).off('scroll', tload)
-                $("#load").off('click')
-                $("#load").on('click', redi);
-            }
-            console.log("success");
-        })
-    }
+    event.stopPropagation();
 }
 
 function redi() {
     if ($('button[data-target="#logoutModal"]')[0]) {
-        window.location.href="/redi"
+        location.href="/redi"
     } else {
         $("#alert div").hide();
         $("#alert div.login.alert-info").show();
         $("#loginModal").modal()
     }
-}
-
-function coms() {
-    var rediId = parseInt($($(this).find('button')[0]).attr('id').substr(1));
-    window.location.href="http://valenw.sinaapp.com/com/" + rediId;
 }

@@ -6,9 +6,27 @@
  * @Email   : ValenW@qq.com
  * @Date    : 2015-01-08 12:49:07
  * @Last Modified by:   ValenW
- * @Last Modified time: 2015-01-08 13:32:51
+ * @Last Modified time: 2015-01-11 09:34:17
  */
 
 body {
-    background: blue;
+    font-family: "微软雅黑", Tahoma, sans-serif;
+}
+
+footer {
+    margin-top: 60px;
+    height: 30px;
+    color: #000;
+    filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=40);
+    opacity: 0.4;
+    font-size: 12px;
+    text-align: center
+}
+
+.navbar .nav > li.hidden-xs .dropdown-menu  {
+    margin: 0;
+}
+
+.navbar .nav > li.hidden-xs:hover .dropdown-menu  {
+    display: block;
 }

@@ -5,10 +5,10 @@
   <title>预言帝</title>
   <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0">
   <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
-  <link rel="stylesheet" href="../static/css/index.css">
+  <link rel="stylesheet" href="../static/css/comment.css">
   <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
   <script src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-  <script src="../static/js/index.js"></script>
+  <script src="../static/js/comment.js"></script>
   <link rel="shortcut icon" href="../static/images/icon.png">
 </head>
 
@@ -23,7 +23,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="">预言帝</a>
+          <a class="navbar-brand" href="http://valenw.sinaapp.com">预言帝</a>
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
@@ -68,16 +68,7 @@
     </nav>
   </header>
 
-  <div class="container">
-    <div class="row">
-      <p class="intra toRedi">
-        嘛~没事来玩玩，预言吐槽表白神马的都可以塞~<br>
-      </p>
-    </div>
-  </div>
-
   <div class="redis container">
-  {% for r in redi %}
     <div class="redi container">
       <div class="row">
         <div class="col btn-group-vertical">
@@ -91,12 +82,32 @@
         <p class="redititle col-md-8 col-xs-12">{{ r[3] }}</p>
       </div>
     </div>
-  {% end %}
   </div>
-  <button class="btn btn-large btn-block btn-default" id="load" type="button">继续加载</button>
+
+  <div class="container comments">
+  {% if comment == "None" %}
+    <div class="comment container">
+      <p class="commentitle col-md-8 col-xs-12 noCom"><i>暂无评论</i></p>
+    </div>
+  {% else %}
+    {% for c in comment %}
+    <div class="comment container">
+      <div class="row">
+        <div class="col-md-2 col-xs-8">
+          <span class="commenter">{{ c[0] }} :</span>
+        </div>
+        <p class="commentitle col-md-8 col-xs-12">{{ c[1] }}</p>
+      </div>
+    </div>
+    {% end %}
+  {% end %}
+  <input type="text" id="cmt" maxlength="50" placeholder="说点什么吧，回车就发送了~">
+  </div>
+
   <footer>
   <div class="limit">valenw.sinaapp.com © 2015 ValenW <br>Contact: 1509563478@qq.com</div>
   </footer>
+
 <!-- login Modal -->
 <div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
@@ -125,7 +136,7 @@
                 <div class="login alert alert-success alert-dismissible" role="alert">
                   <strong>登陆成功!</strong>
                 </div>
-                <div class="login alert alert-info" role="alert"><strong>抱歉，你还未登录.</strong> 登陆或者注册后就可以投票和发表预言啦~</div>
+                <div class="login alert alert-info" role="alert"><strong>抱歉，你还未登录.</strong> 登陆或者注册后就可以投票，评论和发表预言啦~</div>
                 <div class="login alert alert-warning alert-dismissible" role="alert">
                   <strong>抱歉 </strong> 用户名或者密码错误!
                 </div>

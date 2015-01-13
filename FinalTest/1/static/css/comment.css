@@ -4,25 +4,27 @@
  * @Author  : ValenW
  * @Link    : https://github.com/ValenW
  * @Email   : ValenW@qq.com
- * @Date    : 2015-01-06 17:33:11
+ * @Date    : 2015-01-12 19:30:22
  * @Last Modified by:   ValenW
- * @Last Modified time: 2015-01-11 09:34:27
+ * @Last Modified time: 2015-01-12 20:47:58
  */
 
 body {
     font-family: "微软雅黑", Tahoma, sans-serif;
 }
+
+.redis {
+    margin-top: 80px;
+}
 .redi {
     margin: 30px 20px 30px;
     padding: 30px 10px 30px;
-}
-.redi:hover {
-    cursor: pointer;
-    background: #FC9;
+    background: #FFCC99;
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     border-radius: 10px;
 }
+
 .redititle {
     font-weight: bold;
     font-size: 250%;
@@ -38,39 +40,56 @@ body {
 .voted {
     height: 50px;
 }
-.intra {
-    width: 70%;
-    margin: 50px auto 30px;
-    font-size: 300%;
-    font-weight: bold;
-    text-align: center;
-}
-.intra:hover {
-    background: orange;
-    -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-    border-radius: 10px;
-    cursor: pointer;
-}
-.btn-block {
-    height: 50px;
-    font-size: 150%;
-    font-weight: bold;
-}
-.btn-block:hover {
-    background-color: orange;
-    cursor: pointer;
-}
+
 .navbar .nav > li.hidden-xs .dropdown-menu  {
     margin: 0;
 }
 .navbar .nav > li.hidden-xs:hover .dropdown-menu  {
     display: block;
 }
-.loadend {
-    height: 80px;
+
+.comments input {
+    margin-top: 30px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    background: transparent;
+    width: 100%;
+    font-size: 18px;
+    line-height: 1.05;
+    font-family: inherit;
+    height: 26px;
+    outline: none;
+    word-break: break-all;
+    resize: none
 }
 
+.comments input:focus {
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    border-bottom: 3px solid #FF9933
+}
+
+.comment {
+    margin: 10px 20px 10px;
+    padding: 5px 10px 5px;
+}
+
+.commentitle {
+    font-weight: 170%;
+    font-size: 200%;
+}
+
+.commenter {
+    font-weight: 150%;
+    font-size: 120%;
+}
+.noCom {
+    width: 100%;
+    color: #CC99FF;
+    text-align: center;
+}
 footer {
     margin-top: 60px;
     height: 30px;
