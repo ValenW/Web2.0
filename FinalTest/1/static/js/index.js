@@ -5,9 +5,11 @@
  * @Email   : ValenW@qq.com
  * @Date    : 2015-01-06 20:04:37
  * @Last Modified by:   ValenW
- * @Last Modified time: 2015-01-13 09:44:33
+ * @Last Modified time: 2015-01-15 13:24:43
  */
 $(document).ready(function() {
+    $('#scroll').hide();
+    $('#scroll').on('click', function() {$("html,body").animate({ scrollTop:0}, 800);});
     $("#bs-example-navbar-collapse-1 li").click(function (e) {
         e.preventDefault()
         $(this).tab('show')
@@ -79,6 +81,10 @@ $(document).ready(function() {
         tload()
         $("#load").text("正在加载...")
         $(window).on('scroll', tload)
+    });
+    $(window).scroll(function() {
+        if($(window).scrollTop() >= 400) $('#scroll').fadeIn(400);
+        else $('#scroll').fadeOut(200);
     });
 });
 
@@ -173,8 +179,8 @@ function tload() {
                 "<div class=\"redi container\">\
                   <div class=\"row\">\
                     <div class=\"col btn-group-vertical\">\
-                      <button type=\"button\" class=\"up btn" + msg[i][8] + "\" id=\"r" + msg[i][0] + "\">" + msg[i][4] + "<br>神预言</button>\
-                      <button type=\"button\" class=\"down btn" + msg[i][9] + "\" id=\"r-" + msg[i][0] + "\">" + msg[i][5] + "<br>什么鬼</button>\
+                      <button type=\"button\" class=\"up hvr-bounce-to-top btn" + msg[i][8] + "\" id=\"r" + msg[i][0] + "\">" + msg[i][4] + "<br>神预言</button>\
+                      <button type=\"button\" class=\"down hvr-bounce-to-bottom btn" + msg[i][9] + "\" id=\"r-" + msg[i][0] + "\">" + msg[i][5] + "<br>什么鬼</button>\
                     </div>\
                     <div class=\"col-md-2 col-xs-8\">\
                       <span class=\"redier\">" + msg[i][1] + "</span> 预言说<br><span class=\"time\">" + msg[i][7] + "天后<br>(" + msg[i][2] + ")</span>\
